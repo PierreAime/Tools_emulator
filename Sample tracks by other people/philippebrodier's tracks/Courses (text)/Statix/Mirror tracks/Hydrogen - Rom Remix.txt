@@ -1,0 +1,418 @@
+Name = HYDROGEN
+Description = ROM REMIX
+JDescription = 
+Source = ©2004 Statix, remix 2006 philippe brodier
+
+Venue = 6 - Sector
+Sky = 2 - Grey
+ROM_Music = 7 - Sector
+EK_Music = 35 - Regeneration
+
+Horizon_Count = 0
+CTL_Point_Count = 35
+
+
+CTL_Point 1
+X = 0,000
+Y = 75,000
+Z = 150,000
+LeftWidth = 30,0
+RightWidth = 30,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 0 - Venue Finish Stretch
+Structure = 3 - Short Building (Both Sides)
+
+CTL_Point 2
+X = 0,000
+Y = 100,000
+Z = -200,000
+LeftWidth = 30,0
+RightWidth = 30,0
+Banking = 0°
+TrackType = 0 - (No Track)
+Gate = 1 - Lap Marker
+
+CTL_Point 3
+X = 0,000
+Y = 50,000
+Z = -300,000
+LeftWidth = 35,0
+RightWidth = 35,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+TrapField = 0 - Center
+Structure = 1 - Venue Skyscraper (Left Side)
+
+CTL_Point 4
+X = 0,000
+Y = 50,000
+Z = -400,000
+LeftWidth = 35,0
+RightWidth = 35,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DartZone = 1 - Left side
+DashPlate = 0 - Center
+
+CTL_Point 5
+X = -200,000
+Y = 45,000
+Z = -600,000
+LeftWidth = 35,0
+RightWidth = 35,0
+Banking = 0°
+TrackType = 6 - Tunnel
+Texture = 0 - Brown Tunnel
+PitArea = 1 - Left side
+DashPlate = 0 - Center
+Structure = 1 - Venue Skyscraper (Left Side)
+
+CTL_Point 6
+X = -400,000
+Y = 40,000
+Z = -400,000
+LeftWidth = 35,0
+RightWidth = 35,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DartZone = 1 - Left side
+DashPlate = 0 - Center
+Structure = 1 - Venue Skyscraper (Left Side)
+
+CTL_Point 7
+X = -200,000
+Y = 50,000
+Z = -200,000
+LeftWidth = 35,0
+RightWidth = 35,0
+Banking = 330°
+TrackType = 0 - (No Track)
+Structure = 1 - Venue Skyscraper (Left Side)
+
+CTL_Point 8
+X = -100,000
+Y = 0,000
+Z = -200,000
+LeftWidth = 50,0
+RightWidth = 50,0
+Banking = 0°
+TrackType = 6 - Tunnel
+Texture = 0 - Brown Tunnel
+DartZone = 2 - Right side
+DashPlate = 0 - Center
+
+CTL_Point 9
+X = 100,000
+Y = 15,000
+Z = -200,000
+LeftWidth = 50,0
+RightWidth = 50,0
+Banking = 345°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+PitArea = 2 - Right side
+DashPlate = 0 - Center
+Structure = 2 - Venue Skyscraper (Right Side)
+
+CTL_Point 10
+X = 250,000
+Y = 30,000
+Z = -150,000
+LeftWidth = 50,0
+RightWidth = 50,0
+Banking = 345°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DashPlate = 0 - Center
+Structure = 2 - Venue Skyscraper (Right Side)
+
+CTL_Point 11
+X = 350,000
+Y = 45,000
+Z = -50,000
+LeftWidth = 50,0
+RightWidth = 50,0
+Banking = 345°
+TrackType = 7 - No Wall
+Texture = 0 - Venue No-walls
+DartZone = 2 - Right side
+DashPlate = 0 - Center
+Structure = 2 - Venue Skyscraper (Right Side)
+
+CTL_Point 12
+X = 400,000
+Y = 60,000
+Z = 100,000
+LeftWidth = 50,0
+RightWidth = 50,0
+Banking = 345°
+TrackType = 0 - (No Track)
+Structure = 2 - Venue Skyscraper (Right Side)
+
+CTL_Point 13
+X = 350,000
+Y = 15,000
+Z = 200,000
+LeftWidth = 50,0
+RightWidth = 50,0
+Banking = 15°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+DartZone = 1 - Left side
+DashPlate = 0 - Center
+Structure = 1 - Venue Skyscraper (Left Side)
+
+CTL_Point 14
+X = 400,000
+Y = 30,000
+Z = 350,000
+LeftWidth = 50,0
+RightWidth = 50,0
+Banking = 15°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+PitArea = 1 - Left side
+DashPlate = 0 - Center
+Structure = 1 - Venue Skyscraper (Left Side)
+
+CTL_Point 15
+X = 500,000
+Y = 45,000
+Z = 450,000
+LeftWidth = 50,0
+RightWidth = 50,0
+Banking = 15°
+TrackType = 7 - No Wall
+Texture = 0 - Venue No-walls
+DartZone = 1 - Left side
+DashPlate = 0 - Center
+Structure = 1 - Venue Skyscraper (Left Side)
+
+CTL_Point 16
+X = 650,000
+Y = 60,000
+Z = 500,000
+LeftWidth = 50,0
+RightWidth = 50,0
+Banking = 15°
+TrackType = 0 - (No Track)
+Structure = 1 - Venue Skyscraper (Left Side)
+
+CTL_Point 17
+X = 750,000
+Y = 0,000
+Z = 450,000
+LeftWidth = 50,0
+RightWidth = 50,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+DartZone = 1 - Left side
+DashPlate = 0 - Center
+TrapField = 0 - Center
+
+CTL_Point 18
+X = 900,000
+Y = 50,000
+Z = 600,000
+LeftWidth = 50,0
+RightWidth = 50,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+PitArea = 1 - Left side
+DashPlate = 0 - Center
+
+CTL_Point 19
+X = 1050,000
+Y = 150,000
+Z = 650,000
+LeftWidth = 50,0
+RightWidth = 50,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DartZone = 1 - Left side
+DashPlate = 0 - Center
+
+CTL_Point 20
+X = 1200,000
+Y = 250,000
+Z = 550,000
+LeftWidth = 50,0
+RightWidth = 50,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 0 - Venue No-walls
+PitArea = 1 - Left side
+DashPlate = 0 - Center
+
+CTL_Point 21
+X = 1150,000
+Y = 250,000
+Z = 350,000
+LeftWidth = 50,0
+RightWidth = 50,0
+Banking = 0°
+TrackType = 0 - (No Track)
+
+CTL_Point 22
+X = 1000,000
+Y = 175,000
+Z = 300,000
+LeftWidth = 50,0
+RightWidth = 50,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 0 - Venue No-walls
+DartZone = 1 - Left side
+DashPlate = 0 - Center
+TrapField = 0 - Center
+
+CTL_Point 23
+X = 850,000
+Y = 200,000
+Z = 400,000
+LeftWidth = 50,0
+RightWidth = 50,0
+Banking = 0°
+TrackType = 0 - (No Track)
+
+CTL_Point 24
+X = 800,000
+Y = 125,000
+Z = 600,000
+LeftWidth = 50,0
+RightWidth = 50,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 0 - Venue No-walls
+PitArea = 1 - Left side
+DashPlate = 0 - Center
+TrapField = 0 - Center
+
+CTL_Point 25
+X = 950,000
+Y = 150,000
+Z = 750,000
+LeftWidth = 50,0
+RightWidth = 50,0
+Banking = 0°
+TrackType = 0 - (No Track)
+
+CTL_Point 26
+X = 1150,000
+Y = 75,000
+Z = 700,000
+LeftWidth = 50,0
+RightWidth = 50,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 0 - Venue No-walls
+DartZone = 1 - Left side
+DashPlate = 0 - Center
+TrapField = 0 - Center
+
+CTL_Point 27
+X = 1250,000
+Y = 100,000
+Z = 450,000
+LeftWidth = 50,0
+RightWidth = 50,0
+Banking = 0°
+TrackType = 0 - (No Track)
+
+CTL_Point 28
+X = 1100,000
+Y = 25,000
+Z = 250,000
+LeftWidth = 50,0
+RightWidth = 50,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+PitArea = 1 - Left side
+DashPlate = 0 - Center
+TrapField = 0 - Center
+Structure = 3 - Short Building (Both Sides)
+
+CTL_Point 29
+X = 850,000
+Y = 50,000
+Z = 300,000
+LeftWidth = 50,0
+RightWidth = 50,0
+Banking = 0°
+TrackType = 6 - Tunnel
+Texture = 0 - Brown Tunnel
+DashPlate = 0 - Center
+TrapField = 0 - Center
+
+CTL_Point 30
+X = 700,000
+Y = 100,000
+Z = 550,000
+LeftWidth = 50,0
+RightWidth = 50,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+PitArea = 2 - Right side
+
+CTL_Point 31
+X = 450,000
+Y = 175,000
+Z = 600,000
+LeftWidth = 40,0
+RightWidth = 40,0
+Banking = 0°
+TrackType = 6 - Tunnel
+Texture = 0 - Brown Tunnel
+DartZone = 2 - Right side
+DashPlate = 0 - Center
+
+CTL_Point 32
+X = 50,000
+Y = 275,000
+Z = 650,000
+LeftWidth = 35,0
+RightWidth = 35,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+PitArea = 2 - Right side
+DashPlate = 0 - Center
+
+CTL_Point 33
+X = -100,000
+Y = 300,000
+Z = 550,000
+LeftWidth = 30,0
+RightWidth = 30,0
+Banking = 0°
+TrackType = 0 - (No Track)
+
+CTL_Point 34
+X = 0,000
+Y = 150,000
+Z = 400,000
+LeftWidth = 35,0
+RightWidth = 35,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+TrapField = 0 - Center
+
+CTL_Point 35
+X = -50,000
+Y = 75,000
+Z = 250,000
+LeftWidth = 35,0
+RightWidth = 35,0
+Banking = 0°
+TrackType = 0 - (No Track)
+Structure = 0 - Venue Skyscraper (Both Sides)

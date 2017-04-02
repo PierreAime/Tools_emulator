@@ -1,0 +1,54 @@
+Name = TREMENDOUS CITY
+Description = BIG O - 90 DEGREES
+JDescription = 
+Source = ©2005 Philippe Brodier
+
+Venue = 0 - Mute City
+Sky = 5 - Orange
+ROM_Music = 0 - Mute City
+EK_Music = 0 - Mute City
+
+Horizon_Count = 0
+CTL_Point_Count = 4
+
+
+CTL_Point 1
+X = -126,000
+Y = 40,000
+Z = 0,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 90°
+TrackType = 1 - Normal
+Texture = 0 - Venue Finish Stretch
+
+CTL_Point 2
+X = 0,000
+Y = 40,000
+Z = -126,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 90°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+Decoration = 2 - Blue Flag
+
+CTL_Point 3
+X = 126,000
+Y = 40,000
+Z = 0,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 90°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+
+CTL_Point 4
+X = 0,000
+Y = 40,000
+Z = 126,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 90°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C

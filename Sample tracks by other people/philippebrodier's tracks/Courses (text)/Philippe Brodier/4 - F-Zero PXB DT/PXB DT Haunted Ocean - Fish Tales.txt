@@ -1,0 +1,337 @@
+Name = HAUNTED OCEAN
+Description = FISH TALES
+JDescription = 
+Source = ©2005 Philippe Brodier
+
+Venue = 2 - Big Blue
+Sky = 5 - Orange
+ROM_Music = 4 - Big Blue
+EK_Music = 4 - Big Blue
+
+Horizon_Count = 6
+CTL_Point_Count = 26
+
+
+Horizon 1
+Image = 33 - Big Blue A
+Angle = 0,000°
+
+Horizon 2
+Image = 35 - Big Blue C
+Angle = 60,000°
+
+Horizon 3
+Image = 34 - Big Blue B
+Angle = 120,000°
+
+Horizon 4
+Image = 38 - Silence B (Light)
+Angle = 180,000°
+
+Horizon 5
+Image = 35 - Big Blue C
+Angle = 240,000°
+
+Horizon 6
+Image = 34 - Big Blue B
+Angle = 300,000°
+
+
+CTL_Point 1
+X = -615,000
+Y = 196,000
+Z = -764,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 275°
+TrackType = 1 - Normal
+Texture = 0 - Venue Finish Stretch
+
+CTL_Point 2
+X = -436,000
+Y = 414,000
+Z = -740,000
+LeftWidth = 91,0
+RightWidth = 91,0
+Banking = 186°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DashPlate = 0 - Center
+Gate = 1 - Lap Marker
+
+CTL_Point 3
+X = -218,000
+Y = 233,000
+Z = -715,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 95°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DashPlate = 0 - Center
+
+CTL_Point 4
+X = -399,000
+Y = 15,000
+Z = -698,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 325°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DashPlate = 0 - Center
+
+CTL_Point 5
+X = -562,000
+Y = 0,000
+Z = -723,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DashPlate = 0 - Center
+Structure = 9 - Pinnacle (Both Sides)
+
+CTL_Point 6
+X = -690,000
+Y = 0,000
+Z = -604,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DashPlate = 0 - Center
+Structure = 9 - Pinnacle (Both Sides)
+
+CTL_Point 7
+X = -755,000
+Y = 0,000
+Z = -500,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DashPlate = 0 - Center
+Structure = 9 - Pinnacle (Both Sides)
+
+CTL_Point 8
+X = -815,000
+Y = 0,000
+Z = -350,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DashPlate = 0 - Center
+Structure = 9 - Pinnacle (Both Sides)
+
+CTL_Point 9
+X = -815,000
+Y = 0,000
+Z = -201,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DashPlate = 0 - Center
+Structure = 9 - Pinnacle (Both Sides)
+
+CTL_Point 10
+X = -815,000
+Y = 0,000
+Z = -17,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DashPlate = 0 - Center
+Structure = 9 - Pinnacle (Both Sides)
+
+CTL_Point 11
+X = -837,000
+Y = 44,000
+Z = 110,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+Structure = 9 - Pinnacle (Both Sides)
+
+CTL_Point 12
+X = -780,000
+Y = 200,000
+Z = 303,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 270°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DashPlate = 0 - Center
+
+CTL_Point 13
+X = -797,000
+Y = 400,000
+Z = 103,000
+LeftWidth = 10,0
+RightWidth = 10,0
+Banking = 180°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DashPlate = 0 - Center
+
+CTL_Point 14
+X = -814,000
+Y = 200,000
+Z = -98,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 90°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DashPlate = 0 - Center
+
+CTL_Point 15
+X = -611,000
+Y = 0,000
+Z = 58,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+
+CTL_Point 16
+X = -775,000
+Y = 0,000
+Z = 221,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DashPlate = 0 - Center
+Structure = 9 - Pinnacle (Both Sides)
+
+CTL_Point 17
+X = -710,000
+Y = 0,000
+Z = 396,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DashPlate = 0 - Center
+Structure = 9 - Pinnacle (Both Sides)
+
+CTL_Point 18
+X = -488,000
+Y = 0,000
+Z = 572,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 268°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+PitArea = 0 - Both Sides
+DashPlate = 0 - Center
+Structure = 9 - Pinnacle (Both Sides)
+
+CTL_Point 19
+X = -92,000
+Y = 0,000
+Z = 491,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 297°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DashPlate = 0 - Center
+Structure = 9 - Pinnacle (Both Sides)
+
+CTL_Point 20
+X = 1096,000
+Y = 0,000
+Z = -481,000
+LeftWidth = 46,0
+RightWidth = 46,0
+Banking = 309°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+Structure = 9 - Pinnacle (Both Sides)
+
+CTL_Point 21
+X = 896,000
+Y = 115,000
+Z = -657,000
+LeftWidth = 36,0
+RightWidth = 36,0
+Banking = 238°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DashPlate = 0 - Center
+
+CTL_Point 22
+X = 335,000
+Y = 230,000
+Z = -52,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 255°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+PitArea = 0 - Both Sides
+DashPlate = 0 - Center
+
+CTL_Point 23
+X = 668,000
+Y = 194,000
+Z = 583,000
+LeftWidth = 33,0
+RightWidth = 33,0
+Banking = 234°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+
+CTL_Point 24
+X = 834,000
+Y = 84,000
+Z = 497,000
+LeftWidth = 40,0
+RightWidth = 40,0
+Banking = 249°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DashPlate = 0 - Center
+Structure = 9 - Pinnacle (Both Sides)
+
+CTL_Point 25
+X = 16,000
+Y = 175,000
+Z = -690,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DashPlate = 0 - Center
+Structure = 9 - Pinnacle (Both Sides)
+
+CTL_Point 26
+X = -397,000
+Y = 15,000
+Z = -780,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 340°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DashPlate = 0 - Center
+Structure = 11 - Pinnacle (Right Side)

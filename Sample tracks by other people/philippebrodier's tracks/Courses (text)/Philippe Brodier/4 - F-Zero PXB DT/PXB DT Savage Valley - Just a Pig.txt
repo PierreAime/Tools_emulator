@@ -1,0 +1,228 @@
+Name = SAVAGE VALLEY
+Description = JUST A PIG
+JDescription = 
+Source = ©2005 Philippe Brodier
+
+Venue = 7 - Red Canyon
+Sky = 0 - Pink
+ROM_Music = 6 - Red Canyon
+EK_Music = 6 - Red Canyon
+
+Horizon_Count = 6
+CTL_Point_Count = 15
+
+
+Horizon 1
+Image = 20 - Red Canyon D
+Angle = 0,000°
+
+Horizon 2
+Image = 18 - Red Canyon B
+Angle = 60,000°
+
+Horizon 3
+Image = 19 - Red Canyon C
+Angle = 120,000°
+
+Horizon 4
+Image = 17 - Red Canyon A
+Angle = 150,000°
+
+Horizon 5
+Image = 6 - Devil's Forest B
+Angle = 240,000°
+
+Horizon 6
+Image = 25 - Big Hand A
+Angle = 300,000°
+
+
+CTL_Point 1
+X = -577,000
+Y = 0,000
+Z = 869,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 0 - Venue Finish Stretch
+Decoration = 4 - Overhead Monitors
+Structure = 6 - Pyramid (Both Sides)
+
+CTL_Point 2
+X = -986,000
+Y = 0,000
+Z = 450,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+DashPlate = 0 - Center
+Gate = 1 - Lap Marker
+
+CTL_Point 3
+X = -780,000
+Y = 0,000
+Z = 112,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 0°
+TrackType = 2 - High-Wall
+Texture = 0 - Venue High-wall
+Structure = 6 - Pyramid (Both Sides)
+
+CTL_Point 4
+X = -820,000
+Y = 0,000
+Z = -554,000
+LeftWidth = 19,0
+RightWidth = 19,0
+Banking = 0°
+TrackType = 2 - High-Wall
+Texture = 0 - Venue High-wall
+
+CTL_Point 5
+X = -537,000
+Y = 0,000
+Z = -337,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+DashPlate = 0 - Center
+Decoration = 4 - Overhead Monitors
+Structure = 6 - Pyramid (Both Sides)
+
+CTL_Point 6
+X = -211,000
+Y = 0,000
+Z = -337,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 0°
+TrackType = 2 - High-Wall
+Texture = 0 - Venue High-wall
+PitArea = 2 - Right side
+DartZone = 3 - Center
+SlipZone = 1 - Left side
+Structure = 6 - Pyramid (Both Sides)
+
+CTL_Point 7
+X = 118,000
+Y = 0,000
+Z = -118,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 0°
+TrackType = 2 - High-Wall
+Texture = 0 - Venue High-wall
+PitArea = 1 - Left side
+DartZone = 3 - Center
+SlipZone = 2 - Right side
+Structure = 6 - Pyramid (Both Sides)
+
+CTL_Point 8
+X = 350,000
+Y = 0,000
+Z = 145,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 0°
+TrackType = 2 - High-Wall
+Texture = 0 - Venue High-wall
+PitArea = 2 - Right side
+DartZone = 3 - Center
+SlipZone = 1 - Left side
+Structure = 6 - Pyramid (Both Sides)
+
+CTL_Point 9
+X = 651,000
+Y = 0,000
+Z = 244,000
+LeftWidth = 62,0
+RightWidth = 62,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+DashPlate = 0 - Center
+Decoration = 4 - Overhead Monitors
+
+CTL_Point 10
+X = 651,000
+Y = 1,000
+Z = 550,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 0°
+TrackType = 2 - High-Wall
+Texture = 0 - Venue High-wall
+PitArea = 2 - Right side
+DartZone = 3 - Center
+SlipZone = 1 - Left side
+Structure = 6 - Pyramid (Both Sides)
+
+CTL_Point 11
+X = 383,000
+Y = 0,000
+Z = 604,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+DashPlate = 0 - Center
+Decoration = 4 - Overhead Monitors
+Structure = 6 - Pyramid (Both Sides)
+
+CTL_Point 12
+X = 6,000
+Y = 0,000
+Z = 476,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 2 - High-Wall
+Texture = 0 - Venue High-wall
+PitArea = 2 - Right side
+DartZone = 3 - Center
+SlipZone = 1 - Left side
+
+CTL_Point 13
+X = -19,000
+Y = 0,000
+Z = 624,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+DashPlate = 0 - Center
+Decoration = 4 - Overhead Monitors
+
+CTL_Point 14
+X = 310,000
+Y = 0,000
+Z = 869,000
+LeftWidth = 16,0
+RightWidth = 16,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+PitArea = 2 - Right side
+DartZone = 3 - Center
+SlipZone = 1 - Left side
+
+CTL_Point 15
+X = -270,000
+Y = 0,000
+Z = 896,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+DashPlate = 0 - Center
+Decoration = 4 - Overhead Monitors
+Structure = 6 - Pyramid (Both Sides)

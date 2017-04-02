@@ -1,0 +1,350 @@
+Name = ODD TOWN
+Description = F-ZERO X CUSTOM CAR
+JDescription = 
+Source = ©2005 Philippe Brodier
+
+Venue = 1 - Port Town
+Sky = 6 - Sunset
+ROM_Music = 3 - Port Town
+EK_Music = 3 - Port Town
+
+Horizon_Count = 6
+CTL_Point_Count = 28
+
+
+Horizon 1
+Image = 9 - Port Town A (Light)
+Angle = 0,000°
+
+Horizon 2
+Image = 10 - Port Town B (Light)
+Angle = 60,000°
+
+Horizon 3
+Image = 12 - Port Town D (Light)
+Angle = 120,000°
+
+Horizon 4
+Image = 11 - Port Town C (Light)
+Angle = 180,000°
+
+Horizon 5
+Image = 31 - White Land C
+Angle = 240,000°
+
+Horizon 6
+Image = 23 - Sector C
+Angle = 300,000°
+
+
+CTL_Point 1
+X = 796,000
+Y = 0,000
+Z = 238,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 0 - Venue Finish Stretch
+Decoration = 0 - TV Billboard
+
+CTL_Point 2
+X = 827,000
+Y = 0,000
+Z = 38,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DashPlate = 0 - Center
+Gate = 1 - Lap Marker
+
+CTL_Point 3
+X = 548,000
+Y = 0,000
+Z = -113,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DashPlate = 0 - Center
+Decoration = 0 - TV Billboard
+
+CTL_Point 4
+X = 167,000
+Y = 45,000
+Z = -281,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+Decoration = 0 - TV Billboard
+
+CTL_Point 5
+X = -129,000
+Y = 115,000
+Z = -388,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 279°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+Decoration = 0 - TV Billboard
+
+CTL_Point 6
+X = -547,000
+Y = 30,000
+Z = -393,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 6 - Venue Texture 2B
+Decoration = 0 - TV Billboard
+
+CTL_Point 7
+X = -569,000
+Y = 113,000
+Z = -299,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 300°
+TrackType = 1 - Normal
+Texture = 6 - Venue Texture 2B
+Decoration = 0 - TV Billboard
+
+CTL_Point 8
+X = -258,000
+Y = 109,000
+Z = -227,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 6 - Venue Texture 2B
+Decoration = 0 - TV Billboard
+
+CTL_Point 9
+X = -53,000
+Y = 0,000
+Z = -98,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 6 - Venue Texture 2B
+Decoration = 0 - TV Billboard
+
+CTL_Point 10
+X = 177,000
+Y = 0,000
+Z = -95,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 6 - Venue Texture 2B
+DashPlate = 0 - Center
+Decoration = 0 - TV Billboard
+
+CTL_Point 11
+X = 717,000
+Y = 80,000
+Z = -51,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 63°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+Decoration = 0 - TV Billboard
+
+CTL_Point 12
+X = 693,000
+Y = 0,000
+Z = 77,000
+LeftWidth = 5,0
+RightWidth = 47,0
+Banking = 33°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+DashPlate = 0 - Center
+Decoration = 0 - TV Billboard
+
+CTL_Point 13
+X = -350,000
+Y = 0,000
+Z = -31,000
+LeftWidth = 47,0
+RightWidth = 5,0
+Banking = 33°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+Decoration = 0 - TV Billboard
+
+CTL_Point 14
+X = -528,000
+Y = 180,000
+Z = -261,000
+LeftWidth = 46,0
+RightWidth = 46,0
+Banking = 318°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+DashPlate = 0 - Center
+
+CTL_Point 15
+X = -750,000
+Y = 180,000
+Z = -287,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 309°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+DashPlate = 0 - Center
+
+CTL_Point 16
+X = -956,000
+Y = 180,000
+Z = -232,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 306°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+DashPlate = 0 - Center
+
+CTL_Point 17
+X = -899,000
+Y = 180,000
+Z = -47,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 342°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+DashPlate = 0 - Center
+
+CTL_Point 18
+X = -515,000
+Y = 180,000
+Z = -33,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+
+CTL_Point 19
+X = -200,000
+Y = 0,000
+Z = -46,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+DashPlate = 0 - Center
+
+CTL_Point 20
+X = -217,000
+Y = 0,000
+Z = -202,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+DashPlate = 0 - Center
+
+CTL_Point 21
+X = -1069,000
+Y = 0,000
+Z = -410,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+
+CTL_Point 22
+X = -960,000
+Y = 0,000
+Z = -71,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 5 - Venue Texture 2A
+DashPlate = 0 - Center
+
+CTL_Point 23
+X = -891,000
+Y = 0,000
+Z = 194,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+DashPlate = 0 - Center
+
+CTL_Point 24
+X = -813,000
+Y = 29,000
+Z = 250,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 5 - Venue Texture 2A
+DashPlate = 0 - Center
+
+CTL_Point 25
+X = -462,000
+Y = 300,000
+Z = 255,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+Decoration = 0 - TV Billboard
+
+CTL_Point 26
+X = -230,000
+Y = 0,000
+Z = 255,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 5 - Venue Texture 2A
+
+CTL_Point 27
+X = 258,000
+Y = 0,000
+Z = 255,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+PitArea = 0 - Both Sides
+DashPlate = 0 - Center
+Decoration = 0 - TV Billboard
+
+CTL_Point 28
+X = 620,000
+Y = 0,000
+Z = 255,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 5 - Venue Texture 2A
+PitArea = 0 - Both Sides
+Decoration = 0 - TV Billboard
