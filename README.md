@@ -4,5 +4,5 @@ Testé avec F-Zero X version USA !
 Son nom est F-Zero Execution Project.
 Je n'en suis pas l'auteur.
 
-Testé et fourni avec les DLLs manquantes ;)
+Testé et fourni avec les DLLs manquantes ;) (Sous wine avec Ubuntu 16.04)
 
