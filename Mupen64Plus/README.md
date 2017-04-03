@@ -92,6 +92,7 @@ sudo cp -R ../../ini/GLideN64.ini /usr/local/share/mupen64plus/GLideN64.ini
 
 
 Exemple ligne de commande en mode fenetre avec GLideN64 :
+---------------------------------------------------------
 
 MESA_GL_VERSION_OVERRIDE=3.3COMPAT /usr/local/bin/mupen64plus --gfx /usr/local/lib/mupen64plus/mupen64plus-video-GLideN64.so --rsp /usr/local/lib/mupen64plus/mupen64plus-rsp-hle.so --audio /usr/local/lib/mupen64plus/mupen64plus-audio-sdl.so --input /usr/local/lib/mupen64plus/mupen64plus-input-sdl.so --datadir /usr/local/share/mupen64plus --corelib /usr/local/lib/libmupen64plus.so.2.0.0 --windowed <VOTRE JEU>
 
