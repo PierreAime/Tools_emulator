@@ -9,3 +9,14 @@ Je n'en suis pas l'auteur.
 
 Testé et fourni avec les DLLs manquantes ;) (Sous wine avec Ubuntu 16.04)
 
+
+Dossier Mupen64plus :
+---------------------
+
+Emulateur pour N64.
+Explications pour installer et lancer l'émulateur dans README.md de ce dossier :).
+
+Penser à installer les dépedances manquantes si nécessaires pendant la compilation si vous rencontrez des erreurs. (avec "sudo apt").
+
+Testé sous Ubuntu 16.04
+
