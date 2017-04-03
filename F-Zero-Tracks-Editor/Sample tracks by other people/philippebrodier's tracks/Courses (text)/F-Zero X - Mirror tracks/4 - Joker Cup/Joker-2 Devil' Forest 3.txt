@@ -1,0 +1,495 @@
+Name = DEVIL'S FOREST 3
+Description = MIRROR ROAD
+JDescription = [mi][ra][-][ro][-][do]
+Source = ©1998 Nintendo
+
+Venue = 4 - Devil's Forest
+Sky = 5 - Orange
+ROM_Music = 5 - Devil's Forest
+EK_Music = 5 - Devil's Forest
+
+Horizon_Count = 0
+CTL_Point_Count = 48
+
+
+CTL_Point 1
+X = -236.000
+Y = 140.000
+Z = -539.500
+LeftWidth = 36.0
+RightWidth = 36.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 0 - Venue Finish Stretch
+
+CTL_Point 2
+X = 81.000
+Y = 140.000
+Z = -539.500
+LeftWidth = 36.0
+RightWidth = 36.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+Gate = 1 - Lap Marker
+
+CTL_Point 3
+X = 162.000
+Y = 149.000
+Z = -539.500
+LeftWidth = 43.0
+RightWidth = 29.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+
+CTL_Point 4
+X = 353.000
+Y = 173.000
+Z = -539.500
+LeftWidth = 50.0
+RightWidth = 22.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+
+CTL_Point 5
+X = 442.000
+Y = 192.000
+Z = -478.500
+LeftWidth = 50.0
+RightWidth = 22.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+
+CTL_Point 6
+X = 441.000
+Y = 211.000
+Z = -379.500
+LeftWidth = 50.0
+RightWidth = 22.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+
+CTL_Point 7
+X = 310.000
+Y = 234.000
+Z = -179.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+
+CTL_Point 8
+X = 308.000
+Y = 240.000
+Z = -87.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 0 - Venue No-walls
+
+CTL_Point 9
+X = 307.000
+Y = 240.000
+Z = 202.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+
+CTL_Point 10
+X = 305.000
+Y = 240.000
+Z = 274.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+
+CTL_Point 11
+X = 268.000
+Y = 240.000
+Z = 333.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 0 - Venue No-walls
+
+CTL_Point 12
+X = 118.000
+Y = 240.000
+Z = 483.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+
+CTL_Point 13
+X = 93.000
+Y = 240.000
+Z = 506.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+
+CTL_Point 14
+X = 5.000
+Y = 240.000
+Z = 539.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+
+CTL_Point 15
+X = -100.000
+Y = 240.000
+Z = 478.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+
+CTL_Point 16
+X = -100.000
+Y = 240.000
+Z = 338.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+
+CTL_Point 17
+X = 5.000
+Y = 225.000
+Z = 277.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+
+CTL_Point 18
+X = 93.000
+Y = 213.000
+Z = 310.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+
+CTL_Point 19
+X = 118.000
+Y = 210.000
+Z = 333.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+
+CTL_Point 20
+X = 258.000
+Y = 210.000
+Z = 473.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+
+CTL_Point 21
+X = 296.000
+Y = 226.000
+Z = 511.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+
+CTL_Point 22
+X = 308.000
+Y = 255.000
+Z = 523.000
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 135°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+
+CTL_Point 23
+X = 296.000
+Y = 284.000
+Z = 511.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 180°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+
+CTL_Point 24
+X = 258.000
+Y = 300.000
+Z = 473.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 180°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+
+CTL_Point 25
+X = 118.000
+Y = 300.000
+Z = 333.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 180°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+
+CTL_Point 26
+X = 93.000
+Y = 297.000
+Z = 310.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 180°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+
+CTL_Point 27
+X = 5.000
+Y = 285.000
+Z = 277.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 180°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+
+CTL_Point 28
+X = -100.000
+Y = 270.000
+Z = 338.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 180°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+
+CTL_Point 29
+X = -100.000
+Y = 270.000
+Z = 478.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 180°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+
+CTL_Point 30
+X = 5.000
+Y = 270.000
+Z = 539.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 180°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+
+CTL_Point 31
+X = 93.000
+Y = 270.000
+Z = 506.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 180°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+
+CTL_Point 32
+X = 118.000
+Y = 270.000
+Z = 483.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 180°
+TrackType = 7 - No Wall
+Texture = 0 - Venue No-walls
+
+CTL_Point 33
+X = 268.000
+Y = 270.000
+Z = 333.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 180°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+
+CTL_Point 34
+X = 305.000
+Y = 270.000
+Z = 274.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 180°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+
+CTL_Point 35
+X = 307.000
+Y = 270.000
+Z = 202.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 180°
+TrackType = 7 - No Wall
+Texture = 0 - Venue No-walls
+
+CTL_Point 36
+X = 308.000
+Y = 270.000
+Z = -87.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 180°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+
+CTL_Point 37
+X = 310.000
+Y = 276.000
+Z = -179.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 180°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+
+CTL_Point 38
+X = 441.000
+Y = 299.000
+Z = -379.500
+LeftWidth = 50.0
+RightWidth = 22.0
+Banking = 180°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+
+CTL_Point 39
+X = 442.000
+Y = 318.000
+Z = -478.500
+LeftWidth = 50.0
+RightWidth = 22.0
+Banking = 180°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+
+CTL_Point 40
+X = 353.000
+Y = 337.000
+Z = -539.500
+LeftWidth = 50.0
+RightWidth = 22.0
+Banking = 180°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+
+CTL_Point 41
+X = 162.000
+Y = 361.000
+Z = -539.500
+LeftWidth = 43.0
+RightWidth = 29.0
+Banking = 180°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+
+CTL_Point 42
+X = 81.000
+Y = 370.000
+Z = -539.500
+LeftWidth = 36.0
+RightWidth = 36.0
+Banking = 180°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+PitArea = 0 - Both Sides
+
+CTL_Point 43
+X = -236.000
+Y = 370.000
+Z = -539.500
+LeftWidth = 36.0
+RightWidth = 36.0
+Banking = 180°
+TrackType = 3 - Pipe
+Texture = 3 - Black Pipe
+
+CTL_Point 44
+X = -346.000
+Y = 351.000
+Z = -540.000
+LeftWidth = 18.0
+RightWidth = 18.0
+Banking = 180°
+TrackType = 3 - Pipe
+Texture = 2 - White Pipe
+
+CTL_Point 45
+X = -404.000
+Y = 325.000
+Z = -540.000
+LeftWidth = 18.0
+RightWidth = 18.0
+Banking = 180°
+TrackType = 3 - Pipe
+Texture = 2 - White Pipe
+
+CTL_Point 46
+X = -449.000
+Y = 255.000
+Z = -540.000
+LeftWidth = 18.0
+RightWidth = 18.0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 2 - White Pipe
+
+CTL_Point 47
+X = -404.000
+Y = 185.000
+Z = -540.000
+LeftWidth = 18.0
+RightWidth = 18.0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 2 - White Pipe
+
+CTL_Point 48
+X = -346.000
+Y = 159.000
+Z = -540.000
+LeftWidth = 18.0
+RightWidth = 18.0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 3 - Black Pipe

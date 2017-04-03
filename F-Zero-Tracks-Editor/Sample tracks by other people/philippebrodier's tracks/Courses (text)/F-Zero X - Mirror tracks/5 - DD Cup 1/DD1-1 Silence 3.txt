@@ -1,0 +1,297 @@
+Name = SILENCE 3
+Description = OUTSIDE LOOP
+JDescription = [a][u][to][sa][i][do][ru][-][pu][du][sm_ya]
+Source = ©2000 Nintendo
+
+Venue = 9 - Silence
+Sky = 6 - Sunset
+ROM_Music = 1 - Silence
+EK_Music = 35 - Regeneration
+
+Horizon_Count = 0
+CTL_Point_Count = 27
+
+
+CTL_Point 1
+X = 727.500
+Y = 0.000
+Z = -374.000
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 0 - Venue Finish Stretch
+
+CTL_Point 2
+X = 245.500
+Y = 0.000
+Z = -369.000
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 6 - Venue Texture 2B
+Gate = 1 - Lap Marker
+
+CTL_Point 3
+X = 75.500
+Y = 4.000
+Z = -374.000
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 6 - Venue Texture 2B
+
+CTL_Point 4
+X = -155.500
+Y = 75.000
+Z = -381.000
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 6 - Venue Texture 2B
+
+CTL_Point 5
+X = -446.500
+Y = 259.000
+Z = -382.000
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 6 - Venue Texture 2B
+
+CTL_Point 6
+X = -771.500
+Y = 463.000
+Z = -359.000
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 6 - Venue Texture 2B
+
+CTL_Point 7
+X = -1069.500
+Y = 500.000
+Z = -211.000
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 6 - Venue Texture 2B
+
+CTL_Point 8
+X = -1169.500
+Y = 500.000
+Z = 55.000
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 6 - Venue Texture 2B
+
+CTL_Point 9
+X = -1051.500
+Y = 480.000
+Z = 294.000
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 6 - Venue Texture 2B
+
+CTL_Point 10
+X = -772.500
+Y = 448.000
+Z = 380.000
+LeftWidth = 18.0
+RightWidth = 18.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 6 - Venue Texture 2B
+Decoration = 3 - Spinning Billboard
+
+CTL_Point 11
+X = -393.500
+Y = 500.000
+Z = 382.000
+LeftWidth = 14.0
+RightWidth = 14.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DartZone = 3 - Center
+Decoration = 4 - Overhead Monitors
+
+CTL_Point 12
+X = -176.000
+Y = 250.000
+Z = 376.000
+LeftWidth = 14.0
+RightWidth = 14.0
+Banking = 132°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+
+CTL_Point 13
+X = -451.000
+Y = 0.000
+Z = 304.000
+LeftWidth = 14.0
+RightWidth = 14.0
+Banking = 180°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+
+CTL_Point 14
+X = -745.000
+Y = 250.000
+Z = 207.000
+LeftWidth = 14.0
+RightWidth = 14.0
+Banking = 288°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+
+CTL_Point 15
+X = -411.000
+Y = 500.000
+Z = 141.000
+LeftWidth = 14.0
+RightWidth = 14.0
+Banking = 3°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DartZone = 3 - Center
+Decoration = 4 - Overhead Monitors
+
+CTL_Point 16
+X = -144.000
+Y = 250.000
+Z = 126.000
+LeftWidth = 14.0
+RightWidth = 14.0
+Banking = 80°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+
+CTL_Point 17
+X = -451.000
+Y = 0.000
+Z = 75.000
+LeftWidth = 14.0
+RightWidth = 14.0
+Banking = 180°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+Structure = 0 - Venue Skyscraper (Both Sides)
+
+CTL_Point 18
+X = -752.000
+Y = 250.000
+Z = -9.000
+LeftWidth = 14.0
+RightWidth = 14.0
+Banking = 276°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+
+CTL_Point 19
+X = -436.000
+Y = 500.000
+Z = -57.000
+LeftWidth = 14.0
+RightWidth = 14.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+Decoration = 4 - Overhead Monitors
+
+CTL_Point 20
+X = -47.000
+Y = 109.000
+Z = -48.000
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 6 - Venue Texture 2B
+
+CTL_Point 21
+X = 503.500
+Y = 0.000
+Z = -49.000
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 2 - Grey No-walls
+PitArea = 0 - Both Sides
+
+CTL_Point 22
+X = 957.500
+Y = 0.000
+Z = -52.000
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 2 - Grey No-walls
+DartZone = 2 - Right side
+
+CTL_Point 23
+X = 1098.500
+Y = 0.000
+Z = -90.000
+LeftWidth = 39.0
+RightWidth = 39.0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 2 - Grey No-walls
+DartZone = 2 - Right side
+
+CTL_Point 24
+X = 1169.500
+Y = 0.000
+Z = -191.000
+LeftWidth = 50.0
+RightWidth = 54.0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 2 - Grey No-walls
+DartZone = 2 - Right side
+
+CTL_Point 25
+X = 1135.500
+Y = 0.000
+Z = -307.000
+LeftWidth = 50.0
+RightWidth = 54.0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 2 - Grey No-walls
+DartZone = 2 - Right side
+Structure = 2 - Venue Skyscraper (Right Side)
+
+CTL_Point 26
+X = 1028.500
+Y = 0.000
+Z = -360.000
+LeftWidth = 35.0
+RightWidth = 35.0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 2 - Grey No-walls
+
+CTL_Point 27
+X = 867.500
+Y = 0.000
+Z = -374.000
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 6 - Venue Texture 2B

@@ -1,0 +1,259 @@
+Name = FIREFEAR 1
+Description = LARGE STRANGE LOOPING
+JDescription = 
+Source = ©2005 Philippe Brodier
+
+Venue = 8 - Fire Field
+Sky = 6 - Sunset
+ROM_Music = 2 - Sand Ocean
+EK_Music = 2 - Sand Ocean
+
+Horizon_Count = 6
+CTL_Point_Count = 19
+
+
+Horizon 1
+Image = 19 - Red Canyon C
+Angle = 0,000°
+
+Horizon 2
+Image = 26 - Big Hand B
+Angle = 30,000°
+
+Horizon 3
+Image = 18 - Red Canyon B
+Angle = 150,000°
+
+Horizon 4
+Image = 20 - Red Canyon D
+Angle = 200,000°
+
+Horizon 5
+Image = 17 - Red Canyon A
+Angle = 260,000°
+
+Horizon 6
+Image = 28 - Big Hand D
+Angle = 330,000°
+
+
+CTL_Point 1
+X = 109,000
+Y = 0,000
+Z = -849,000
+LeftWidth = 5,0
+RightWidth = 47,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 0 - Venue Finish Stretch
+Decoration = 1 - Orange Flag
+Structure = 9 - Pinnacle (Both Sides)
+
+CTL_Point 2
+X = -269,000
+Y = 0,000
+Z = -687,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+DashPlate = 2 - Right Side
+Gate = 1 - Lap Marker
+
+CTL_Point 3
+X = -549,000
+Y = 0,000
+Z = -464,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 183°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+DashPlate = 1 - Left Side
+Structure = 0 - Venue Skyscraper (Both Sides)
+
+CTL_Point 4
+X = -778,000
+Y = 0,000
+Z = -173,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+DashPlate = 2 - Right Side
+Structure = 12 - Orange Skyscraper (Both Sides)
+
+CTL_Point 5
+X = -1068,000
+Y = 0,000
+Z = 82,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 192°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+PitArea = 0 - Both Sides
+DashPlate = 0 - Center
+Structure = 0 - Venue Skyscraper (Both Sides)
+
+CTL_Point 6
+X = -987,000
+Y = 0,000
+Z = 919,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 267°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+DashPlate = 0 - Center
+Structure = 12 - Orange Skyscraper (Both Sides)
+
+CTL_Point 7
+X = 5,000
+Y = 0,000
+Z = 805,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 0°
+TrackType = 6 - Tunnel
+Texture = 3 - Orange Tunnel
+DashPlate = 0 - Center
+
+CTL_Point 8
+X = 453,000
+Y = 0,000
+Z = 820,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+DashPlate = 0 - Center
+
+CTL_Point 9
+X = 636,000
+Y = 200,000
+Z = 673,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 270°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+DashPlate = 0 - Center
+
+CTL_Point 10
+X = 521,000
+Y = 500,000
+Z = 621,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 180°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+
+CTL_Point 11
+X = 220,000
+Y = 380,000
+Z = 662,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 90°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+
+CTL_Point 12
+X = 400,000
+Y = 0,000
+Z = 556,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+DashPlate = 0 - Center
+Decoration = 4 - Overhead Monitors
+
+CTL_Point 13
+X = 755,000
+Y = 0,000
+Z = 582,000
+LeftWidth = 97,0
+RightWidth = 97,0
+Banking = 267°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+DashPlate = 0 - Center
+Decoration = 4 - Overhead Monitors
+
+CTL_Point 14
+X = 1068,000
+Y = 154,000
+Z = 495,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 267°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+DashPlate = 0 - Center
+Decoration = 4 - Overhead Monitors
+
+CTL_Point 15
+X = 786,000
+Y = 0,000
+Z = 167,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+DashPlate = 0 - Center
+Structure = 0 - Venue Skyscraper (Both Sides)
+
+CTL_Point 16
+X = 791,000
+Y = 172,000
+Z = -112,000
+LeftWidth = 47,0
+RightWidth = 5,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+Decoration = 3 - Spinning Billboard
+
+CTL_Point 17
+X = 701,000
+Y = 0,000
+Z = -395,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+DashPlate = 0 - Center
+Structure = 12 - Orange Skyscraper (Both Sides)
+
+CTL_Point 18
+X = 585,000
+Y = 0,000
+Z = -818,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+Structure = 9 - Pinnacle (Both Sides)
+
+CTL_Point 19
+X = 331,000
+Y = 0,000
+Z = -919,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 282°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+PitArea = 0 - Both Sides
+Decoration = 1 - Orange Flag
+Structure = 9 - Pinnacle (Both Sides)

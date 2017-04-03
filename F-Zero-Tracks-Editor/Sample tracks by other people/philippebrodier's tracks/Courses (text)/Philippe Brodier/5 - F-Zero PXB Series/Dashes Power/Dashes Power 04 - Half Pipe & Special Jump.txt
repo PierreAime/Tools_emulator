@@ -1,0 +1,710 @@
+Name = DASHES POWER 04
+Description = HALF PIPE & SPECIAL JUMP
+JDescription = 
+Source = ©2005 Philippe Brodier
+
+Venue = 8 - Fire Field
+Sky = 6 - Sunset
+ROM_Music = 2 - Sand Ocean
+EK_Music = 2 - Sand Ocean
+
+Horizon_Count = 4
+CTL_Point_Count = 64
+
+
+Horizon 1
+Image = 5 - Devil's Forest A
+Angle = 90,000°
+
+Horizon 2
+Image = 5 - Devil's Forest A
+Angle = 75,000°
+
+Horizon 3
+Image = 5 - Devil's Forest A
+Angle = 105,000°
+
+Horizon 4
+Image = 24 - X Cup Exclusive A
+Angle = 270,000°
+
+
+CTL_Point 1
+X = -1455,000
+Y = 0,000
+Z = 30,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 0 - Venue Finish Stretch
+
+CTL_Point 2
+X = -1288,000
+Y = 0,000
+Z = 60,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+
+CTL_Point 3
+X = -1078,000
+Y = 0,000
+Z = 60,000
+LeftWidth = 30,0
+RightWidth = 30,0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+DashPlate = 1 - Left Side
+Structure = 3 - Short Building (Both Sides)
+
+CTL_Point 4
+X = -1019,000
+Y = 0,000
+Z = 60,000
+LeftWidth = 30,0
+RightWidth = 30,0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+Structure = 3 - Short Building (Both Sides)
+
+CTL_Point 5
+X = -959,000
+Y = 0,000
+Z = 60,000
+LeftWidth = 30,0
+RightWidth = 30,0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+Structure = 3 - Short Building (Both Sides)
+
+CTL_Point 6
+X = -899,000
+Y = 0,000
+Z = 60,000
+LeftWidth = 30,0
+RightWidth = 30,0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+DashPlate = 1 - Left Side
+
+CTL_Point 7
+X = -839,000
+Y = 0,000
+Z = 60,000
+LeftWidth = 30,0
+RightWidth = 30,0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+
+CTL_Point 8
+X = -779,000
+Y = 0,000
+Z = 60,000
+LeftWidth = 30,0
+RightWidth = 30,0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+
+CTL_Point 9
+X = -719,000
+Y = 0,000
+Z = 60,000
+LeftWidth = 30,0
+RightWidth = 30,0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+DashPlate = 1 - Left Side
+
+CTL_Point 10
+X = -659,000
+Y = 0,000
+Z = 60,000
+LeftWidth = 30,0
+RightWidth = 30,0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+Structure = 3 - Short Building (Both Sides)
+
+CTL_Point 11
+X = -599,000
+Y = 0,000
+Z = 60,000
+LeftWidth = 30,0
+RightWidth = 30,0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+Structure = 3 - Short Building (Both Sides)
+
+CTL_Point 12
+X = -539,000
+Y = 0,000
+Z = 60,000
+LeftWidth = 30,0
+RightWidth = 30,0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+DashPlate = 1 - Left Side
+Structure = 3 - Short Building (Both Sides)
+
+CTL_Point 13
+X = -479,000
+Y = 0,000
+Z = 60,000
+LeftWidth = 30,0
+RightWidth = 30,0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+
+CTL_Point 14
+X = -419,000
+Y = 0,000
+Z = 60,000
+LeftWidth = 30,0
+RightWidth = 30,0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+DashPlate = 1 - Left Side
+
+CTL_Point 15
+X = -359,000
+Y = 0,000
+Z = 60,000
+LeftWidth = 30,0
+RightWidth = 30,0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+
+CTL_Point 16
+X = -299,000
+Y = 0,000
+Z = 60,000
+LeftWidth = 30,0
+RightWidth = 30,0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+DashPlate = 1 - Left Side
+
+CTL_Point 17
+X = -239,000
+Y = 0,000
+Z = 60,000
+LeftWidth = 30,0
+RightWidth = 30,0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+Structure = 3 - Short Building (Both Sides)
+
+CTL_Point 18
+X = -179,000
+Y = 0,000
+Z = 60,000
+LeftWidth = 30,0
+RightWidth = 30,0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+DashPlate = 1 - Left Side
+Structure = 3 - Short Building (Both Sides)
+
+CTL_Point 19
+X = -119,000
+Y = 0,000
+Z = 60,000
+LeftWidth = 30,0
+RightWidth = 30,0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+Structure = 3 - Short Building (Both Sides)
+
+CTL_Point 20
+X = -59,000
+Y = 0,000
+Z = 60,000
+LeftWidth = 30,0
+RightWidth = 30,0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+DashPlate = 1 - Left Side
+
+CTL_Point 21
+X = 1,000
+Y = 0,000
+Z = 60,000
+LeftWidth = 30,0
+RightWidth = 30,0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+
+CTL_Point 22
+X = 61,000
+Y = 0,000
+Z = 60,000
+LeftWidth = 30,0
+RightWidth = 30,0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+DashPlate = 1 - Left Side
+
+CTL_Point 23
+X = 121,000
+Y = 0,000
+Z = 60,000
+LeftWidth = 30,0
+RightWidth = 30,0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+DashPlate = 1 - Left Side
+
+CTL_Point 24
+X = 181,000
+Y = 0,000
+Z = 60,000
+LeftWidth = 30,0
+RightWidth = 30,0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+DashPlate = 1 - Left Side
+Structure = 3 - Short Building (Both Sides)
+
+CTL_Point 25
+X = 240,000
+Y = 0,000
+Z = 60,000
+LeftWidth = 30,0
+RightWidth = 30,0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+DashPlate = 1 - Left Side
+Structure = 3 - Short Building (Both Sides)
+
+CTL_Point 26
+X = 300,000
+Y = 0,000
+Z = 60,000
+LeftWidth = 30,0
+RightWidth = 30,0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+DashPlate = 1 - Left Side
+Structure = 3 - Short Building (Both Sides)
+
+CTL_Point 27
+X = 360,000
+Y = 0,000
+Z = 60,000
+LeftWidth = 30,0
+RightWidth = 30,0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+DashPlate = 1 - Left Side
+
+CTL_Point 28
+X = 420,000
+Y = 0,000
+Z = 60,000
+LeftWidth = 30,0
+RightWidth = 30,0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+DashPlate = 1 - Left Side
+
+CTL_Point 29
+X = 480,000
+Y = 0,000
+Z = 60,000
+LeftWidth = 30,0
+RightWidth = 30,0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+DashPlate = 1 - Left Side
+
+CTL_Point 30
+X = 540,000
+Y = 0,000
+Z = 60,000
+LeftWidth = 30,0
+RightWidth = 30,0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+DashPlate = 1 - Left Side
+
+CTL_Point 31
+X = 600,000
+Y = 0,000
+Z = 60,000
+LeftWidth = 30,0
+RightWidth = 30,0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+DashPlate = 1 - Left Side
+Structure = 3 - Short Building (Both Sides)
+
+CTL_Point 32
+X = 660,000
+Y = 0,000
+Z = 60,000
+LeftWidth = 30,0
+RightWidth = 30,0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+DashPlate = 1 - Left Side
+Structure = 3 - Short Building (Both Sides)
+
+CTL_Point 33
+X = 720,000
+Y = 0,000
+Z = 60,000
+LeftWidth = 30,0
+RightWidth = 30,0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+DashPlate = 1 - Left Side
+Structure = 3 - Short Building (Both Sides)
+
+CTL_Point 34
+X = 780,000
+Y = 0,000
+Z = 60,000
+LeftWidth = 30,0
+RightWidth = 30,0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+DashPlate = 1 - Left Side
+
+CTL_Point 35
+X = 840,000
+Y = 0,000
+Z = 60,000
+LeftWidth = 30,0
+RightWidth = 30,0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+
+CTL_Point 36
+X = 900,000
+Y = 0,000
+Z = 60,000
+LeftWidth = 30,0
+RightWidth = 30,0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+
+CTL_Point 37
+X = 1034,000
+Y = 0,000
+Z = 60,000
+LeftWidth = 30,0
+RightWidth = 30,0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+
+CTL_Point 38
+X = 1101,000
+Y = 0,000
+Z = 36,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 309°
+TrackType = 5 - Half Pipe
+Texture = 0 - Grainy Half Pipe
+
+CTL_Point 39
+X = 1252,000
+Y = 0,000
+Z = -5,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 273°
+TrackType = 5 - Half Pipe
+Texture = 0 - Grainy Half Pipe
+
+CTL_Point 40
+X = 1353,000
+Y = 0,000
+Z = -57,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 270°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+PitArea = 0 - Both Sides
+
+CTL_Point 41
+X = 1389,000
+Y = 0,000
+Z = -174,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 243°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+PitArea = 0 - Both Sides
+
+CTL_Point 42
+X = 1325,000
+Y = 0,000
+Z = -304,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 234°
+TrackType = 5 - Half Pipe
+Texture = 0 - Grainy Half Pipe
+
+CTL_Point 43
+X = 1194,000
+Y = 0,000
+Z = -294,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 234°
+TrackType = 5 - Half Pipe
+Texture = 2 - Green Half Pipe
+
+CTL_Point 44
+X = 1104,000
+Y = 0,000
+Z = -265,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 231°
+TrackType = 5 - Half Pipe
+Texture = 0 - Grainy Half Pipe
+
+CTL_Point 45
+X = 1011,000
+Y = 0,000
+Z = -238,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 225°
+TrackType = 5 - Half Pipe
+Texture = 2 - Green Half Pipe
+
+CTL_Point 46
+X = 930,000
+Y = 0,000
+Z = -219,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 231°
+TrackType = 5 - Half Pipe
+Texture = 0 - Grainy Half Pipe
+
+CTL_Point 47
+X = 825,000
+Y = 0,000
+Z = -219,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 180°
+TrackType = 5 - Half Pipe
+Texture = 2 - Green Half Pipe
+
+CTL_Point 48
+X = 750,000
+Y = 0,000
+Z = -219,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 180°
+TrackType = 5 - Half Pipe
+Texture = 0 - Grainy Half Pipe
+
+CTL_Point 49
+X = 675,000
+Y = 0,000
+Z = -219,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 180°
+TrackType = 5 - Half Pipe
+Texture = 2 - Green Half Pipe
+
+CTL_Point 50
+X = 600,000
+Y = 15,000
+Z = -219,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 180°
+TrackType = 5 - Half Pipe
+Texture = 0 - Grainy Half Pipe
+
+CTL_Point 51
+X = 525,000
+Y = 0,000
+Z = -219,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 180°
+TrackType = 5 - Half Pipe
+Texture = 2 - Green Half Pipe
+
+CTL_Point 52
+X = 450,000
+Y = 0,000
+Z = -219,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 180°
+TrackType = 5 - Half Pipe
+Texture = 0 - Grainy Half Pipe
+
+CTL_Point 53
+X = 375,000
+Y = 15,000
+Z = -219,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 180°
+TrackType = 5 - Half Pipe
+Texture = 2 - Green Half Pipe
+
+CTL_Point 54
+X = 299,000
+Y = 0,000
+Z = -219,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 180°
+TrackType = 5 - Half Pipe
+Texture = 0 - Grainy Half Pipe
+
+CTL_Point 55
+X = 225,000
+Y = 0,000
+Z = -219,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 180°
+TrackType = 5 - Half Pipe
+Texture = 2 - Green Half Pipe
+
+CTL_Point 56
+X = 150,000
+Y = 15,000
+Z = -219,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 180°
+TrackType = 5 - Half Pipe
+Texture = 0 - Grainy Half Pipe
+
+CTL_Point 57
+X = 75,000
+Y = 0,000
+Z = -219,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 180°
+TrackType = 5 - Half Pipe
+Texture = 2 - Green Half Pipe
+
+CTL_Point 58
+X = 0,000
+Y = 0,000
+Z = -219,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 180°
+TrackType = 5 - Half Pipe
+Texture = 0 - Grainy Half Pipe
+
+CTL_Point 59
+X = -75,000
+Y = 15,000
+Z = -219,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 180°
+TrackType = 5 - Half Pipe
+Texture = 2 - Green Half Pipe
+
+CTL_Point 60
+X = -150,000
+Y = 0,000
+Z = -219,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 180°
+TrackType = 5 - Half Pipe
+Texture = 0 - Grainy Half Pipe
+
+CTL_Point 61
+X = -490,000
+Y = 0,000
+Z = -219,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 180°
+TrackType = 5 - Half Pipe
+Texture = 2 - Green Half Pipe
+
+CTL_Point 62
+X = -680,000
+Y = 0,000
+Z = -219,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 180°
+TrackType = 5 - Half Pipe
+Texture = 0 - Grainy Half Pipe
+
+CTL_Point 63
+X = -1230,000
+Y = 0,000
+Z = -219,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 2 - Green Half Pipe
+Structure = 3 - Short Building (Both Sides)
+
+CTL_Point 64
+X = -1460,000
+Y = 0,000
+Z = -180,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+PitArea = 0 - Both Sides

@@ -1,0 +1,42 @@
+<!-- ======================================================================= -->
+
+<HTML><Body BGColor=FFFFFF Text=000000 Link=0000FF ALink=9900FF VLink=0000FF>
+
+<Center><Table Width=550 Border=0 CellSpacing=0 CellPadding=5
+ Style="border: 1px solid #000000;"><TR><TD>
+<DIV Align="Justify">
+
+<Center><Font Size=+2><B>
+Patch to ROM Window
+</B></Font><BR><A HREF="Contents.html">Back to Contents</A></Center><BR>
+
+The Patch to ROM Window allows you to patch .fzep files to a valid ROM file for 
+use in other applications. The following features are provided:<BR><BR>
+
+<B>Input ROM</B><BR>
+This button selects a *.*64 file and will accept it if it is determined to be a 
+valid F-Zero X ROM. The Output ROM (see below) field will be changed 
+automatically.<BR><BR>
+
+<B>Output ROM</B><BR>
+The filename of the new ROM to be created when patched. Cannot be the same as 
+Input ROM. This is done to prevent overwriting of source ROM images.<BR><BR>
+
+<B>Selected ROM:</B><BR>
+Displays the detected version of the selected ROM file, if any.<BR><BR>
+
+<B>Selected Course</B><BR>
+Specifies the target track location in ROM with a drop-down list and whether to 
+replace it with course data loaded from a .fzep file.<BR><BR>
+
+<B>Recalculate Header Checksum</B><BR>
+Required if the patched ROM is intended to be used immediately for gameplay. 
+Recalculates the N64 header checksums needed for the game to boot. The file 
+<TT>rn64crc.exe</TT> is required for this function to work.<BR><BR>
+
+<B>Patch</B><BR>
+Performs all actions selected by other controls in the window.
+
+
+</TD></TR></Table></Center>
+</Body></HTML>
