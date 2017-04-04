@@ -1,7 +1,7 @@
 1°) Mupen64plus-core : LE COEUR DU PROGRAMME
 --------------------------------------------
 
-Dézipper l'archive puis les commandes suivantes :
+Dézipper l'archive puis lancer les commandes suivantes :
 
 cd mupen64plus-core-master/projects/unix
 
@@ -13,7 +13,7 @@ sudo make install
 2°) Mupen64plus-ui-console : POUR LANCER L'INTERFACE
 ----------------------------------------------------
 
-Dézipper l'archive puis les commandes suivantes :
+Dézipper l'archive puis lancer les commandes suivantes :
 
 cd mupen64plus-ui-console-master/projects/unix
 
@@ -25,7 +25,7 @@ sudo make install
 3°) Mupen64plus-audio-sdl : POUR LE SON
 ---------------------------------------
 
-Dézipper l'archive puis les commandes suivantes :
+Dézipper l'archive puis lancer les commandes suivantes :
 
 cd mupen64plus-audio-sdl-master/projects/unix
 
@@ -37,7 +37,7 @@ sudo make install
 4°) Mupen64plus-input-sdl : POUR LES MANETTES
 ---------------------------------------------
 
-Dézipper l'archive puis les commandes suivantes :
+Dézipper l'archive puis lancer les commandes suivantes :
 
 cd mupen64plus-input-sdl-master/projects/unix
 
@@ -49,7 +49,7 @@ sudo make install
 5°) Mupen64plus-rsp-hle : PLUGIN RSP
 ------------------------------------
 
-Dézipper l'archive puis les commandes suivantes :
+Dézipper l'archive puis lancer les commandes suivantes :
 
 cd mupen64plus-rsp-hle-master/projects/unix
 
@@ -61,7 +61,7 @@ sudo make install
 6°) Mupen64plus-video-rice : LE PLUGIN VIDEO CLASSIQUE
 ------------------------------------------------------
 
-Dézipper l'archive puis les commandes suivantes :
+Dézipper l'archive puis lancer les commandes suivantes :
 
 cd mupen64plus-video-rice-master/projects/unix
 
@@ -73,7 +73,7 @@ sudo make install
 7°) GLideN64 : LE PLUGIN VIDEO AVANCE DE gonetz
 -----------------------------------------------
 
-Dézipper l'archive puis les commandes suivantes :
+Dézipper l'archive puis lancer les commandes suivantes :
 
 cd GLideN64-master/projects/cmake
 
