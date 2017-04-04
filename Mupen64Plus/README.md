@@ -1,3 +1,5 @@
+NB : si vous avez une erreur lors des commandes, penser à installer le paquet manquant avec la commande "sudo apt". EN AUCUN CAS vous ne devrez installer le paquet mupen64plus de ubuntu car il est bugué !
+
 1°) Mupen64plus-core : LE COEUR DU PROGRAMME
 --------------------------------------------
 
