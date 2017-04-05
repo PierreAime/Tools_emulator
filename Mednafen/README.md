@@ -1,3 +1,5 @@
+NB : si vous avez une erreur lors des commandes, penser à installer le paquet manquant avec la commande "sudo apt".
+
 Instructions pour compiler Mednafen :
 -------------------------------------
 
