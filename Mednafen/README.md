@@ -6,7 +6,7 @@ Instructions pour compiler Mednafen :
 Commande pour lancer l'émulateur :
 ----------------------------------
 
-/usr/local/bin/mednafen <Votre JEU>
+/usr/local/bin/mednafen "Votre JEU"
 
 
 Exemples de configuration pour Mednafen :
