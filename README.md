@@ -17,8 +17,8 @@ A faire via le script 'Emulateurs_linux' et à exécuter dans le dossier même !
 Testé sous Ubuntu 16.04 en 64 bits.
 
 
-Script d'installation à lancer dans ce dossier :
-------------------------------------------------
+Script d'installation à lancer dans ce dossier (A EXECUTER EN TANT QUE ROOT !) :
+--------------------------------------------------------------------------------
 
 ./Emulateurs_linux "opt"
 
