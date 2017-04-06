@@ -1,0 +1,618 @@
+Name = SAVAGE VALLEY 5
+Description = NO WALL VENTURE
+JDescription = 
+Source = ©2007 Philippe Brodier
+
+Venue = 7 - Red Canyon
+Sky = 4 - Night
+ROM_Music = 6 - Red Canyon
+EK_Music = 36 - Roller Coaster
+
+Horizon_Count = 0
+CTL_Point_Count = 55
+
+
+CTL_Point 1
+X = -446,000
+Y = 100,000
+Z = 376,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 0 - Venue Finish Stretch
+Decoration = 4 - Overhead Monitors
+
+CTL_Point 2
+X = -788,000
+Y = 100,000
+Z = 376,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 0 - Venue No-walls
+Gate = 1 - Lap Marker
+
+CTL_Point 3
+X = -970,000
+Y = 100,000
+Z = 390,000
+LeftWidth = 26,0
+RightWidth = 78,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 2 - Grey No-walls
+DashPlate = 0 - Center
+Decoration = 1 - Orange Flag
+
+CTL_Point 4
+X = -1029,000
+Y = 100,000
+Z = 513,000
+LeftWidth = 26,0
+RightWidth = 78,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 0 - Venue No-walls
+DashPlate = 0 - Center
+
+CTL_Point 5
+X = -938,000
+Y = 100,000
+Z = 603,000
+LeftWidth = 26,0
+RightWidth = 78,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 2 - Grey No-walls
+
+CTL_Point 6
+X = -681,000
+Y = 100,000
+Z = 612,000
+LeftWidth = 73,0
+RightWidth = 5,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 0 - Venue No-walls
+SlipZone = 3 - Center
+Gate = 0 - Normal
+
+CTL_Point 7
+X = -313,000
+Y = 100,000
+Z = 610,000
+LeftWidth = 73,0
+RightWidth = 5,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 2 - Grey No-walls
+Gate = 0 - Normal
+
+CTL_Point 8
+X = -200,000
+Y = 100,000
+Z = 626,000
+LeftWidth = 151,0
+RightWidth = 5,0
+Banking = 345°
+TrackType = 7 - No Wall
+Texture = 0 - Venue No-walls
+TrapField = 1 - Left Side
+Decoration = 1 - Orange Flag
+
+CTL_Point 9
+X = -168,000
+Y = 100,000
+Z = 766,000
+LeftWidth = 151,0
+RightWidth = 5,0
+Banking = 345°
+TrackType = 7 - No Wall
+Texture = 0 - Venue No-walls
+TrapField = 1 - Left Side
+
+CTL_Point 10
+X = -199,000
+Y = 100,000
+Z = 907,000
+LeftWidth = 151,0
+RightWidth = 5,0
+Banking = 345°
+TrackType = 7 - No Wall
+Texture = 1 - Teal No-walls
+Decoration = 1 - Orange Flag
+
+CTL_Point 11
+X = -330,000
+Y = 100,000
+Z = 929,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 345°
+TrackType = 7 - No Wall
+Texture = 0 - Venue No-walls
+
+CTL_Point 12
+X = -455,000
+Y = 100,000
+Z = 932,000
+LeftWidth = 68,0
+RightWidth = 26,0
+Banking = 75°
+TrackType = 7 - No Wall
+Texture = 0 - Venue No-walls
+
+CTL_Point 13
+X = -569,000
+Y = 100,000
+Z = 931,000
+LeftWidth = 26,0
+RightWidth = 68,0
+Banking = 285°
+TrackType = 7 - No Wall
+Texture = 1 - Teal No-walls
+
+CTL_Point 14
+X = -765,000
+Y = 100,000
+Z = 922,000
+LeftWidth = 60,0
+RightWidth = 18,0
+Banking = 30°
+TrackType = 7 - No Wall
+Texture = 1 - Teal No-walls
+
+CTL_Point 15
+X = -818,000
+Y = 100,000
+Z = 875,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 21°
+TrackType = 7 - No Wall
+Texture = 0 - Venue No-walls
+DashPlate = 0 - Center
+Decoration = 1 - Orange Flag
+
+CTL_Point 16
+X = -828,000
+Y = 65,000
+Z = 696,000
+LeftWidth = 18,0
+RightWidth = 18,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 1 - Teal No-walls
+
+CTL_Point 17
+X = -823,000
+Y = 13,000
+Z = 539,000
+LeftWidth = 13,0
+RightWidth = 13,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 0 - Venue No-walls
+
+CTL_Point 18
+X = -823,000
+Y = 0,000
+Z = 490,000
+LeftWidth = 65,0
+RightWidth = 65,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 2 - Grey No-walls
+DashPlate = 0 - Center
+
+CTL_Point 19
+X = -823,000
+Y = 3,000
+Z = 439,000
+LeftWidth = 13,0
+RightWidth = 13,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 0 - Venue No-walls
+
+CTL_Point 20
+X = -823,000
+Y = 0,000
+Z = 389,000
+LeftWidth = 13,0
+RightWidth = 13,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 0 - Venue No-walls
+Structure = 6 - Pyramid (Both Sides)
+
+CTL_Point 21
+X = -823,000
+Y = 3,000
+Z = 339,000
+LeftWidth = 13,0
+RightWidth = 13,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 2 - Grey No-walls
+
+CTL_Point 22
+X = -823,000
+Y = 0,000
+Z = 287,000
+LeftWidth = 65,0
+RightWidth = 65,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 0 - Venue No-walls
+DashPlate = 0 - Center
+
+CTL_Point 23
+X = -822,000
+Y = 13,000
+Z = 230,000
+LeftWidth = 13,0
+RightWidth = 13,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 1 - Teal No-walls
+
+CTL_Point 24
+X = -821,000
+Y = 25,000
+Z = 170,000
+LeftWidth = 16,0
+RightWidth = 16,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 1 - Teal No-walls
+
+CTL_Point 25
+X = -834,000
+Y = 43,000
+Z = 75,000
+LeftWidth = 18,0
+RightWidth = 18,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 1 - Teal No-walls
+
+CTL_Point 26
+X = -894,000
+Y = 61,000
+Z = -13,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 351°
+TrackType = 7 - No Wall
+Texture = 0 - Venue No-walls
+DashPlate = 0 - Center
+Decoration = 4 - Overhead Monitors
+
+CTL_Point 27
+X = -1029,000
+Y = 80,000
+Z = -56,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 345°
+TrackType = 7 - No Wall
+Texture = 0 - Venue No-walls
+DashPlate = 0 - Center
+
+CTL_Point 28
+X = -1250,000
+Y = 100,000
+Z = -3,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 330°
+TrackType = 7 - No Wall
+Texture = 0 - Venue No-walls
+DashPlate = 0 - Center
+
+CTL_Point 29
+X = -1364,000
+Y = 100,000
+Z = 156,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 315°
+TrackType = 7 - No Wall
+Texture = 1 - Teal No-walls
+SlipZone = 3 - Center
+Gate = 0 - Normal
+
+CTL_Point 30
+X = -1380,000
+Y = 100,000
+Z = 420,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 300°
+TrackType = 7 - No Wall
+Texture = 1 - Teal No-walls
+SlipZone = 3 - Center
+Gate = 0 - Normal
+
+CTL_Point 31
+X = -1310,000
+Y = 100,000
+Z = 646,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 285°
+TrackType = 7 - No Wall
+Texture = 0 - Venue No-walls
+PitArea = 2 - Right side
+Gate = 0 - Normal
+
+CTL_Point 32
+X = -1118,000
+Y = 130,000
+Z = 708,000
+LeftWidth = 15,0
+RightWidth = 141,0
+Banking = 270°
+TrackType = 7 - No Wall
+Texture = 0 - Venue No-walls
+PitArea = 1 - Left side
+Decoration = 4 - Overhead Monitors
+
+CTL_Point 33
+X = -890,000
+Y = 150,000
+Z = 755,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 285°
+TrackType = 7 - No Wall
+Texture = 2 - Grey No-walls
+
+CTL_Point 34
+X = -667,000
+Y = 200,000
+Z = 749,000
+LeftWidth = 52,0
+RightWidth = 26,0
+Banking = 300°
+TrackType = 7 - No Wall
+Texture = 1 - Teal No-walls
+Decoration = 1 - Orange Flag
+
+CTL_Point 35
+X = -478,000
+Y = 200,000
+Z = 794,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 315°
+TrackType = 7 - No Wall
+Texture = 1 - Teal No-walls
+
+CTL_Point 36
+X = -284,000
+Y = 200,000
+Z = 725,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 330°
+TrackType = 7 - No Wall
+Texture = 2 - Grey No-walls
+Decoration = 4 - Overhead Monitors
+
+CTL_Point 37
+X = 66,000
+Y = 150,000
+Z = 725,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 345°
+TrackType = 7 - No Wall
+Texture = 0 - Venue No-walls
+SlipZone = 1 - Left side
+
+CTL_Point 38
+X = 338,000
+Y = 100,000
+Z = 701,000
+LeftWidth = 36,0
+RightWidth = 120,0
+Banking = 15°
+TrackType = 7 - No Wall
+Texture = 0 - Venue No-walls
+SlipZone = 1 - Left side
+Decoration = 1 - Orange Flag
+
+CTL_Point 39
+X = 378,000
+Y = 100,000
+Z = 496,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 1 - Teal No-walls
+
+CTL_Point 40
+X = 378,000
+Y = 98,000
+Z = 325,000
+LeftWidth = 15,0
+RightWidth = 15,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 0 - Venue No-walls
+DashPlate = 0 - Center
+Gate = 0 - Normal
+
+CTL_Point 41
+X = 378,000
+Y = 100,000
+Z = 275,000
+LeftWidth = 13,0
+RightWidth = 13,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 2 - Grey No-walls
+DashPlate = 0 - Center
+
+CTL_Point 42
+X = 378,000
+Y = 98,000
+Z = 225,000
+LeftWidth = 13,0
+RightWidth = 13,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 0 - Venue No-walls
+DashPlate = 0 - Center
+
+CTL_Point 43
+X = 378,000
+Y = 100,000
+Z = 175,000
+LeftWidth = 13,0
+RightWidth = 13,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 2 - Grey No-walls
+DashPlate = 0 - Center
+
+CTL_Point 44
+X = 378,000
+Y = 98,000
+Z = 125,000
+LeftWidth = 13,0
+RightWidth = 13,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 0 - Venue No-walls
+DashPlate = 0 - Center
+
+CTL_Point 45
+X = 378,000
+Y = 100,000
+Z = 75,000
+LeftWidth = 13,0
+RightWidth = 13,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 2 - Grey No-walls
+DashPlate = 0 - Center
+
+CTL_Point 46
+X = 378,000
+Y = 98,000
+Z = 25,000
+LeftWidth = 13,0
+RightWidth = 13,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 0 - Venue No-walls
+DashPlate = 0 - Center
+
+CTL_Point 47
+X = 378,000
+Y = 100,000
+Z = -25,000
+LeftWidth = 13,0
+RightWidth = 13,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 2 - Grey No-walls
+DashPlate = 0 - Center
+
+CTL_Point 48
+X = 378,000
+Y = 98,000
+Z = -75,000
+LeftWidth = 13,0
+RightWidth = 13,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 0 - Venue No-walls
+DashPlate = 0 - Center
+
+CTL_Point 49
+X = 378,000
+Y = 100,000
+Z = -125,000
+LeftWidth = 13,0
+RightWidth = 13,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 1 - Teal No-walls
+Gate = 0 - Normal
+
+CTL_Point 50
+X = 358,000
+Y = 100,000
+Z = -311,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 345°
+TrackType = 7 - No Wall
+Texture = 0 - Venue No-walls
+DashPlate = 0 - Center
+Decoration = 4 - Overhead Monitors
+
+CTL_Point 51
+X = 245,000
+Y = 100,000
+Z = -376,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 333°
+TrackType = 7 - No Wall
+Texture = 0 - Venue No-walls
+DashPlate = 0 - Center
+
+CTL_Point 52
+X = 136,000
+Y = 100,000
+Z = -292,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 309°
+TrackType = 7 - No Wall
+Texture = 2 - Grey No-walls
+TrapField = 0 - Center
+Decoration = 4 - Overhead Monitors
+
+CTL_Point 53
+X = 98,000
+Y = 100,000
+Z = 16,000
+LeftWidth = 52,0
+RightWidth = 52,0
+Banking = 330°
+TrackType = 7 - No Wall
+Texture = 0 - Venue No-walls
+PitArea = 0 - Both Sides
+Decoration = 3 - Spinning Billboard
+
+CTL_Point 54
+X = 22,000
+Y = 100,000
+Z = 263,000
+LeftWidth = 52,0
+RightWidth = 52,0
+Banking = 345°
+TrackType = 7 - No Wall
+Texture = 0 - Venue No-walls
+PitArea = 0 - Both Sides
+
+CTL_Point 55
+X = -188,000
+Y = 100,000
+Z = 370,000
+LeftWidth = 52,0
+RightWidth = 52,0
+Banking = 354°
+TrackType = 7 - No Wall
+Texture = 2 - Grey No-walls
+TrapField = 0 - Center
+Decoration = 3 - Spinning Billboard

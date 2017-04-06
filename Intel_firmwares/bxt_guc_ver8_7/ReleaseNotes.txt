@@ -1,0 +1,11 @@
+[Intel] linux-firmware/i915: GuC firmware for Broxton v8.7
+
+This update contains (since v7.6):
+    1. Update parameter name (interface change).
+    2. Fix for power impact issue.
+
+7.6 contained since v 5.1:
+    1. Add per engine preemption support in scheduler.
+    2. Fix for Sleep Shared Area Pointer Validation.
+    3. Fix for Golden Context init for Render only for Engine Reset.
+    4. Fix for Forcewake Render check.

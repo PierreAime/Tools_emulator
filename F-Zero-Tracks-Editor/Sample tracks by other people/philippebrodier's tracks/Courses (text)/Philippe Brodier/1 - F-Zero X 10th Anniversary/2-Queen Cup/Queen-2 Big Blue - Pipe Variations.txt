@@ -1,0 +1,694 @@
+Name = BIG BLUE
+Description = PIPE VARIATIONS
+JDescription = 
+Source = ©2008 Philippe Brodier
+
+Venue = 2 - Big Blue
+Sky = 4 - Night
+ROM_Music = 4 - Big Blue
+EK_Music = 4 - Big Blue
+
+Horizon_Count = 0
+CTL_Point_Count = 64
+
+
+CTL_Point 1
+X = 729,000
+Y = 275,000
+Z = -650,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 0 - Venue Finish Stretch
+Decoration = 3 - Spinning Billboard
+
+CTL_Point 2
+X = 300,000
+Y = 135,000
+Z = -650,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DashPlate = 0 - Center
+Gate = 1 - Lap Marker
+
+CTL_Point 3
+X = 200,000
+Y = 100,000
+Z = -650,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 0 - Blue Pipe
+
+CTL_Point 4
+X = -50,000
+Y = 30,000
+Z = -650,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 0 - Blue Pipe
+Structure = 9 - Pinnacle (Both Sides)
+
+CTL_Point 5
+X = -300,000
+Y = 0,000
+Z = -650,000
+LeftWidth = 10,0
+RightWidth = 10,0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 0 - Blue Pipe
+
+CTL_Point 6
+X = -475,000
+Y = 0,000
+Z = -650,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 0 - Blue Pipe
+
+CTL_Point 7
+X = -650,000
+Y = 0,000
+Z = -650,000
+LeftWidth = 13,0
+RightWidth = 13,0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 0 - Blue Pipe
+
+CTL_Point 8
+X = -844,000
+Y = 0,000
+Z = -637,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 3 - Black Pipe
+
+CTL_Point 9
+X = -898,000
+Y = 0,000
+Z = -503,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 2 - White Pipe
+
+CTL_Point 10
+X = -784,000
+Y = 0,000
+Z = -327,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 3 - Black Pipe
+DashPlate = 0 - Bottom
+
+CTL_Point 11
+X = -634,000
+Y = 50,000
+Z = -178,000
+LeftWidth = 13,0
+RightWidth = 13,0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 2 - White Pipe
+
+CTL_Point 12
+X = -494,000
+Y = 50,000
+Z = -43,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 3 - Black Pipe
+DashPlate = 0 - Bottom
+
+CTL_Point 13
+X = -342,000
+Y = 100,000
+Z = 106,000
+LeftWidth = 13,0
+RightWidth = 13,0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 2 - White Pipe
+
+CTL_Point 14
+X = -187,000
+Y = 100,000
+Z = 257,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 3 - Black Pipe
+DashPlate = 0 - Bottom
+
+CTL_Point 15
+X = -27,000
+Y = 150,000
+Z = 414,000
+LeftWidth = 13,0
+RightWidth = 13,0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 2 - White Pipe
+
+CTL_Point 16
+X = 118,000
+Y = 150,000
+Z = 557,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 3 - Black Pipe
+DashPlate = 0 - Bottom
+
+CTL_Point 17
+X = 274,000
+Y = 200,000
+Z = 709,000
+LeftWidth = 18,0
+RightWidth = 18,0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 0 - Blue Pipe
+
+CTL_Point 18
+X = 490,000
+Y = 200,000
+Z = 967,000
+LeftWidth = 18,0
+RightWidth = 18,0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 0 - Blue Pipe
+DashPlate = 0 - Bottom
+
+CTL_Point 19
+X = 377,000
+Y = 175,000
+Z = 1177,000
+LeftWidth = 18,0
+RightWidth = 18,0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 0 - Blue Pipe
+DashPlate = 0 - Bottom
+
+CTL_Point 20
+X = 147,000
+Y = 150,000
+Z = 1142,000
+LeftWidth = 18,0
+RightWidth = 18,0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 0 - Blue Pipe
+DashPlate = 0 - Bottom
+
+CTL_Point 21
+X = 95,000
+Y = 125,000
+Z = 916,000
+LeftWidth = 18,0
+RightWidth = 18,0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 0 - Blue Pipe
+DashPlate = 0 - Bottom
+
+CTL_Point 22
+X = 326,000
+Y = 100,000
+Z = 777,000
+LeftWidth = 18,0
+RightWidth = 18,0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 0 - Blue Pipe
+DashPlate = 0 - Bottom
+
+CTL_Point 23
+X = 516,000
+Y = 75,000
+Z = 987,000
+LeftWidth = 18,0
+RightWidth = 18,0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 0 - Blue Pipe
+DashPlate = 0 - Bottom
+
+CTL_Point 24
+X = 383,000
+Y = 50,000
+Z = 1186,000
+LeftWidth = 18,0
+RightWidth = 18,0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 0 - Blue Pipe
+
+CTL_Point 25
+X = 25,000
+Y = 25,000
+Z = 1213,000
+LeftWidth = 18,0
+RightWidth = 18,0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 3 - Black Pipe
+
+CTL_Point 26
+X = -400,000
+Y = 60,000
+Z = 1213,000
+LeftWidth = 13,0
+RightWidth = 13,0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 2 - White Pipe
+DashPlate = 0 - Bottom
+
+CTL_Point 27
+X = -604,000
+Y = 260,000
+Z = 1198,000
+LeftWidth = 13,0
+RightWidth = 13,0
+Banking = 90°
+TrackType = 3 - Pipe
+Texture = 2 - White Pipe
+DashPlate = 0 - Bottom
+
+CTL_Point 28
+X = -402,000
+Y = 460,000
+Z = 1168,000
+LeftWidth = 13,0
+RightWidth = 13,0
+Banking = 180°
+TrackType = 3 - Pipe
+Texture = 2 - White Pipe
+DashPlate = 0 - Bottom
+
+CTL_Point 29
+X = -203,000
+Y = 260,000
+Z = 1138,000
+LeftWidth = 13,0
+RightWidth = 13,0
+Banking = 270°
+TrackType = 3 - Pipe
+Texture = 2 - White Pipe
+DashPlate = 0 - Bottom
+
+CTL_Point 30
+X = -400,000
+Y = 60,000
+Z = 1123,000
+LeftWidth = 13,0
+RightWidth = 13,0
+Banking = 3°
+TrackType = 3 - Pipe
+Texture = 3 - Black Pipe
+
+CTL_Point 31
+X = -737,000
+Y = 0,000
+Z = 1123,000
+LeftWidth = 18,0
+RightWidth = 18,0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 3 - Black Pipe
+DashPlate = 1 - Right Side
+
+CTL_Point 32
+X = -994,000
+Y = 0,000
+Z = 1116,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 3 - Black Pipe
+
+CTL_Point 33
+X = -1114,000
+Y = 0,000
+Z = 1024,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 3 - Black Pipe
+DashPlate = 2 - Top
+
+CTL_Point 34
+X = -1149,000
+Y = 0,000
+Z = 812,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 1 - Red Pipe
+
+CTL_Point 35
+X = -1150,000
+Y = 0,000
+Z = 650,000
+LeftWidth = 13,0
+RightWidth = 13,0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 1 - Red Pipe
+
+CTL_Point 36
+X = -1150,000
+Y = 0,000
+Z = 400,000
+LeftWidth = 52,0
+RightWidth = 52,0
+Banking = 30°
+TrackType = 3 - Pipe
+Texture = 1 - Red Pipe
+
+CTL_Point 37
+X = -1150,000
+Y = 0,000
+Z = 300,000
+LeftWidth = 13,0
+RightWidth = 13,0
+Banking = 330°
+TrackType = 3 - Pipe
+Texture = 1 - Red Pipe
+
+CTL_Point 38
+X = -1150,000
+Y = 0,000
+Z = 50,000
+LeftWidth = 52,0
+RightWidth = 52,0
+Banking = 330°
+TrackType = 3 - Pipe
+Texture = 1 - Red Pipe
+
+CTL_Point 39
+X = -1150,000
+Y = 0,000
+Z = -50,000
+LeftWidth = 13,0
+RightWidth = 13,0
+Banking = 30°
+TrackType = 3 - Pipe
+Texture = 1 - Red Pipe
+
+CTL_Point 40
+X = -1150,000
+Y = 0,000
+Z = -300,000
+LeftWidth = 52,0
+RightWidth = 52,0
+Banking = 30°
+TrackType = 3 - Pipe
+Texture = 1 - Red Pipe
+
+CTL_Point 41
+X = -1150,000
+Y = 0,000
+Z = -400,000
+LeftWidth = 13,0
+RightWidth = 13,0
+Banking = 330°
+TrackType = 3 - Pipe
+Texture = 1 - Red Pipe
+
+CTL_Point 42
+X = -1150,000
+Y = 0,000
+Z = -650,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 3 - Black Pipe
+DashPlate = 2 - Top
+
+CTL_Point 43
+X = -1126,000
+Y = 0,000
+Z = -858,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 3 - Black Pipe
+
+CTL_Point 44
+X = -1035,000
+Y = 0,000
+Z = -940,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 3 - Black Pipe
+DashPlate = 1 - Right Side
+
+CTL_Point 45
+X = -700,000
+Y = 0,000
+Z = -950,000
+LeftWidth = 5,0
+RightWidth = 5,0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 1 - Red Pipe
+
+CTL_Point 46
+X = -600,000
+Y = 0,000
+Z = -950,000
+LeftWidth = 5,0
+RightWidth = 5,0
+Banking = 60°
+TrackType = 3 - Pipe
+Texture = 3 - Black Pipe
+
+CTL_Point 47
+X = -500,000
+Y = 0,000
+Z = -950,000
+LeftWidth = 5,0
+RightWidth = 5,0
+Banking = 300°
+TrackType = 3 - Pipe
+Texture = 1 - Red Pipe
+
+CTL_Point 48
+X = -400,000
+Y = 0,000
+Z = -950,000
+LeftWidth = 5,0
+RightWidth = 5,0
+Banking = 60°
+TrackType = 3 - Pipe
+Texture = 3 - Black Pipe
+
+CTL_Point 49
+X = -300,000
+Y = 0,000
+Z = -950,000
+LeftWidth = 5,0
+RightWidth = 5,0
+Banking = 300°
+TrackType = 3 - Pipe
+Texture = 1 - Red Pipe
+
+CTL_Point 50
+X = -200,000
+Y = 0,000
+Z = -950,000
+LeftWidth = 5,0
+RightWidth = 5,0
+Banking = 60°
+TrackType = 3 - Pipe
+Texture = 3 - Black Pipe
+
+CTL_Point 51
+X = -100,000
+Y = 0,000
+Z = -950,000
+LeftWidth = 5,0
+RightWidth = 5,0
+Banking = 300°
+TrackType = 3 - Pipe
+Texture = 1 - Red Pipe
+
+CTL_Point 52
+X = 0,000
+Y = 0,000
+Z = -950,000
+LeftWidth = 5,0
+RightWidth = 5,0
+Banking = 60°
+TrackType = 3 - Pipe
+Texture = 3 - Black Pipe
+
+CTL_Point 53
+X = 100,000
+Y = 0,000
+Z = -950,000
+LeftWidth = 5,0
+RightWidth = 5,0
+Banking = 300°
+TrackType = 3 - Pipe
+Texture = 1 - Red Pipe
+
+CTL_Point 54
+X = 200,000
+Y = 0,000
+Z = -950,000
+LeftWidth = 5,0
+RightWidth = 5,0
+Banking = 60°
+TrackType = 3 - Pipe
+Texture = 3 - Black Pipe
+
+CTL_Point 55
+X = 300,000
+Y = 0,000
+Z = -950,000
+LeftWidth = 5,0
+RightWidth = 5,0
+Banking = 300°
+TrackType = 3 - Pipe
+Texture = 1 - Red Pipe
+
+CTL_Point 56
+X = 400,000
+Y = 0,000
+Z = -950,000
+LeftWidth = 5,0
+RightWidth = 5,0
+Banking = 60°
+TrackType = 3 - Pipe
+Texture = 3 - Black Pipe
+
+CTL_Point 57
+X = 500,000
+Y = 0,000
+Z = -950,000
+LeftWidth = 5,0
+RightWidth = 5,0
+Banking = 300°
+TrackType = 3 - Pipe
+Texture = 1 - Red Pipe
+
+CTL_Point 58
+X = 600,000
+Y = 3,000
+Z = -950,000
+LeftWidth = 5,0
+RightWidth = 5,0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 3 - Black Pipe
+
+CTL_Point 59
+X = 850,000
+Y = 37,000
+Z = -950,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DashPlate = 0 - Center
+Decoration = 3 - Spinning Billboard
+Structure = 9 - Pinnacle (Both Sides)
+
+CTL_Point 60
+X = 1050,000
+Y = 153,000
+Z = -950,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+PitArea = 1 - Left side
+Gate = 0 - Normal
+Decoration = 2 - Blue Flag
+Structure = 9 - Pinnacle (Both Sides)
+
+CTL_Point 61
+X = 1232,000
+Y = 360,000
+Z = -919,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 30°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+PitArea = 2 - Right side
+Gate = 0 - Normal
+Decoration = 2 - Blue Flag
+
+CTL_Point 62
+X = 1293,000
+Y = 484,000
+Z = -816,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 69°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+PitArea = 2 - Right side
+Gate = 0 - Normal
+Decoration = 2 - Blue Flag
+
+CTL_Point 63
+X = 1213,000
+Y = 479,000
+Z = -674,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 60°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+PitArea = 1 - Left side
+Gate = 0 - Normal
+Decoration = 2 - Blue Flag
+
+CTL_Point 64
+X = 925,000
+Y = 350,000
+Z = -650,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DashPlate = 0 - Center
+Gate = 0 - Normal
+Decoration = 2 - Blue Flag

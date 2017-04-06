@@ -1,0 +1,230 @@
+#!/bin/bash
+
+if [[ $1 == "-h" ]]
+	then
+	clear
+	echo "AIDE : ./Emulateurs_linux <opt>"
+	echo ""
+	echo "Liste pour les differents 'opt' possibles (mettre seulement 1 option) :"
+	echo "-h => Aide"
+	echo "-intel => installation des firmwares INTEL manquants si vous possedez une carte graphique INTEL"
+	echo "-jstest-gtk => installation du viewer de manette Jstest-gtk"
+	echo "-mupen64plus => installation de l'emulateur Mupen64plus et ses extensions pour N64"
+	echo "-mednafen => installation de l'emulateur Mednafen pour NES, SNES et Virtual Boy"
+	echo "Auteur du script : Pierre-Aime IMBERT"
+	echo "GPL v3"
+	echo "pierreaime.imbert@outlook.fr"	
+	exit 0
+fi
+
+if [[ $1 == "" ]]
+	then
+	clear
+	echo "AIDE : ./Emulateurs_linux <opt>"
+	echo ""
+	echo "Liste pour les differents 'opt' possibles (mettre seulement 1 option) :"
+	echo "-h => Aide"
+	echo "-intel => installation des firmwares INTEL manquants si vous possedez une carte graphique INTEL"
+	echo "-jstest-gtk => installation du viewer de manette Jstest-gtk"
+	echo "-mupen64plus => installation de l'emulateur Mupen64plus et ses extensions pour N64"
+	echo "-mednafen => installation de l'emulateur Mednafen pour NES, SNES et Virtual Boy"
+	echo "Auteur du script : Pierre-Aime IMBERT"
+	echo "GPL v3"
+	echo "pierreaime.imbert@outlook.fr"	
+	exit 0
+fi
+
+clear
+echo "Auteur du script : Pierre-Aime IMBERT"
+echo "GPL v3"
+echo "pierreaime.imbert@outlook.fr"
+
+sleep 1
+
+echo "##################################"
+echo "Verification des prerequis"
+echo "##################################"
+
+sleep 3
+
+apt-get -y install git
+apt-get -y install nasm
+apt-get -y install make
+apt-get -y install gcc
+apt-get -y install pkg-config
+apt-get -y install zlib1g-dev
+apt-get -y install libpng-dev
+apt-get -y install libsdl-dev
+apt-get -y install libsdl2-dev
+apt-get -y install libfreetype6-dev
+apt-get -y install g++
+apt-get -y install cmake
+apt-get -y install sigc++
+apt-get -y install libgtkmm*
+apt-get -y install intltool
+apt-get -y install libpackagekit-glib2-dev
+apt-get -y install libsoup-gnome2.4-dev
+apt-get -y install libpolkit-gobject-1-dev
+apt-get -y install gtk+3.0
+apt-get -y install libpciaccess-dev
+apt-get -y install xserver-xorg-dev
+apt-get -y install libsndfile-dev
+
+if [[ $1 == "-intel" ]]
+	then
+	echo "##################################"
+	echo "Installation des firmwares INTEL"
+	echo "##################################"
+
+	sleep 3
+
+	cd Intel_firmwares
+
+	cd bxt_dmc_ver1_07
+	./install.sh
+	
+	cd ../bxt_guc_ver8_7
+	./install.sh
+
+	cd ../bxt_huc_ver01_07_1398
+	./install.sh
+
+	cd ../kbl_dmc_ver1_01
+	./install.sh
+
+	cd ../kbl_guc_ver9_14
+	./install.sh
+
+	cd ../kbl_huc_ver02_00_1810
+	./install.sh
+
+	cd ../skl_dmc_ver1_26
+	./install.sh
+
+	cd ../skl_guc_ver6_1
+	./install.sh
+
+	cd ../skl_huc_ver01_07_1398
+	./install.sh
+fi
+
+if [[ $1 == "-jstest-gtk" ]]
+	then
+	echo "##################################"
+	echo "Installation de Jstestk-gtk"
+	echo "##################################"
+
+	sleep 3
+
+	cd Jstest-gtk
+	unzip jstest-gtk-master.zip
+	cd jstest-gtk-master
+	mkdir build
+	cd build
+	cmake ..
+	make
+	cp -R jstest-gtk /usr/local/bin/
+	cd ..
+	cp -R data /usr/local/bin/data
+
+	echo "##################################"
+	echo "Installation de Jstest-gtk terminee"
+	echo "##################################"
+fi
+
+if [[ $1 == "-mupen64plus" ]]
+	then
+	echo "##################################"
+	echo "Installation de Mupen64plus"
+	echo "##################################"
+
+	sleep 3
+
+	cd Mupen64Plus
+	unzip mupen64plus-core-master.zip
+	cd mupen64plus-core-master/projects/unix
+	make all
+	make install
+	cd ../../..
+
+	unzip mupen64plus-ui-console-master.zip
+	cd mupen64plus-ui-console-master/projects/unix
+	make all
+	make install
+	cd ../../..
+
+	unzip mupen64plus-audio-sdl-master.zip
+	cd mupen64plus-audio-sdl-master/projects/unix
+	make all
+	make install
+	cd ../../..
+	
+	unzip mupen64plus-input-sdl-master.zip
+	cd mupen64plus-input-sdl-master/projects/unix
+	make all
+	make install
+	cd ../../..
+
+	unzip mupen64plus-rsp-hle-master.zip
+	cd mupen64plus-rsp-hle-master/projects/unix
+	make all
+	make install
+	cd ../../..
+
+	unzip mupen64plus-video-rice-master.zip
+	cd mupen64plus-video-rice-master/projects/unix
+	make all
+	make install
+	cd ../../..
+
+	unzip GLideN64-master.zip
+	cd GLideN64-master/projects/cmake
+	cmake -DMUPENPLUSAPI=On ../../src
+	../../src/getRevision.sh
+	make
+	cp -R ./plugin/release/mupen64plus-video-GLideN64.so /usr/local/lib/mupen64plus/mupen64plus-video-GLideN64.so
+	cp -R ../../ini/GLideN64.custom.ini /usr/local/share/mupen64plus/GLideN64.custom.ini
+	cp -R ../../ini/GLideN64.ini /usr/local/share/mupen64plus/GLideN64.ini	
+	echo "##################################"
+	echo "Installation de Mupen64plus terminee"
+	echo "##################################"
+fi
+
+
+if [[ $1 == "-mednafen" ]]
+	then
+	echo "##################################"
+	echo "Installation de Mednafen"
+	echo "##################################"
+
+	sleep 3
+
+	cd Mednafen
+	tar -xf mednafen-0.9.43.tar.xz
+	cd mednafen
+	./configure --disable-gb --disable-gba --disable-lynx --disable-md --enable-nes --disable-ngp --disable-pce --disable-pce-fast --disable-pcfx --disable-psx --disable-sms --enable-snes --disable-snes-faust --disable-ss --disable-ssfplay --enable-vb --disable-wswan
+	make
+	make install
+	mkdir -p /usr/local/games/exemples_configurations_mednafen
+	cp -R ../exemples_configurations_mednafen/*.cfg /usr/local/games/exemples_configurations_mednafen
+	echo "##################################"
+	echo "Installation de Mednafen terminee"
+	echo "##################################"
+fi
+
+echo "##################################"
+echo "Fin du script"
+echo "##################################"
+echo ""
+echo "RAPPEL: ./Emulateurs_linux <opt>"
+echo ""
+echo "Liste pour les differents 'opt' possibles (mettre seulement 1 option) :"
+echo "-h => Aide"
+echo "-intel => installation des firmwares INTEL manquants si vous possedez une carte graphique INTEL"
+echo "-jstest-gtk => installation du viewer de manette Jstest-gtk"
+echo "-mupen64plus => installation de l'emulateur Mupen64plus et ses extensions pour N64"
+echo "-mednafen => installation de l'emulateur Mednafen pour NES, SNES et Virtual Boy"
+echo "Auteur du script : Pierre-Aime IMBERT"
+echo "GPL v3"
+echo "pierreaime.imbert@outlook.fr"
+

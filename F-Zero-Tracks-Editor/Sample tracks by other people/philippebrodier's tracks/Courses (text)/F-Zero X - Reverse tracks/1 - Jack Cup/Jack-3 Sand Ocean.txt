@@ -1,0 +1,328 @@
+Name = SAND OCEAN
+Description = PIPE
+JDescription = 
+Source = ©1998 Nintendo. reverse version 2005 Philippe Brodier
+
+Venue = 3 - Sand Ocean
+Sky = 2 - Grey
+ROM_Music = 2 - Sand Ocean
+EK_Music = 2 - Sand Ocean
+
+Horizon_Count = 6
+CTL_Point_Count = 28
+
+
+Horizon 1
+Image = 5 - Devil's Forest A
+Angle = 0.000°
+
+Horizon 2
+Image = 17 - Red Canyon A
+Angle = 60.000°
+
+Horizon 3
+Image = 5 - Devil's Forest A
+Angle = 120.000°
+
+Horizon 4
+Image = 17 - Red Canyon A
+Angle = 180.000°
+
+Horizon 5
+Image = 5 - Devil's Forest A
+Angle = 240.000°
+
+Horizon 6
+Image = 17 - Red Canyon A
+Angle = 300.000°
+
+
+CTL_Point 1
+X = 351.750
+Y = 50.000
+Z = -514.500
+LeftWidth = 30.0
+RightWidth = 30.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 0 - Venue Finish Stretch
+Decoration = 3 - Spinning Billboard
+
+CTL_Point 2
+X = 30.750
+Y = 50.000
+Z = -514.500
+LeftWidth = 30.0
+RightWidth = 30.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+PitArea = 0 - Both Sides
+Gate = 1 - Lap Marker
+
+CTL_Point 3
+X = -167.750
+Y = 46.000
+Z = -512.500
+LeftWidth = 30.0
+RightWidth = 30.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+PitArea = 0 - Both Sides
+Gate = 0 - Normal
+
+CTL_Point 4
+X = -382.750
+Y = 4.000
+Z = -513.500
+LeftWidth = 30.0
+RightWidth = 30.0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 0 - Blue Pipe
+
+CTL_Point 5
+X = -531.750
+Y = 46.000
+Z = -510.000
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 0 - Blue Pipe
+DashPlate = 0 - Bottom
+
+CTL_Point 6
+X = -768.750
+Y = 55.000
+Z = -504.000
+LeftWidth = 22.0
+RightWidth = 22.0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 0 - Blue Pipe
+
+CTL_Point 7
+X = -969.750
+Y = 43.000
+Z = -432.500
+LeftWidth = 22.0
+RightWidth = 22.0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 1 - Red Pipe
+
+CTL_Point 8
+X = -1044.250
+Y = 33.000
+Z = -217.000
+LeftWidth = 13.0
+RightWidth = 13.0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 1 - Red Pipe
+
+CTL_Point 9
+X = -908.250
+Y = 50.000
+Z = 59.000
+LeftWidth = 13.0
+RightWidth = 13.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+
+CTL_Point 10
+X = -867.000
+Y = 50.000
+Z = 207.000
+LeftWidth = 17.5
+RightWidth = 17.5
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+
+CTL_Point 11
+X = -928.000
+Y = 50.000
+Z = 387.000
+LeftWidth = 22.0
+RightWidth = 22.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+DashPlate = 2 - Right Side
+
+CTL_Point 12
+X = -1117.000
+Y = 45.000
+Z = 491.000
+LeftWidth = 22.0
+RightWidth = 22.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+Decoration = 0 - TV Billboard
+
+CTL_Point 13
+X = -1169.000
+Y = 37.000
+Z = 660.000
+LeftWidth = 22.0
+RightWidth = 22.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+
+CTL_Point 14
+X = -1052.000
+Y = 28.000
+Z = 780.000
+LeftWidth = 22.0
+RightWidth = 22.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+Decoration = 4 - Overhead Monitors
+
+CTL_Point 15
+X = -835.000
+Y = 19.000
+Z = 761.000
+LeftWidth = 22.0
+RightWidth = 22.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+
+CTL_Point 16
+X = -627.000
+Y = 8.000
+Z = 665.000
+LeftWidth = 22.0
+RightWidth = 22.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+Decoration = 3 - Spinning Billboard
+
+CTL_Point 17
+X = -490.000
+Y = 14.000
+Z = 589.000
+LeftWidth = 22.0
+RightWidth = 22.0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 3 - Black Pipe
+
+CTL_Point 18
+X = -312.250
+Y = 43.000
+Z = 496.000
+LeftWidth = 7.0
+RightWidth = 7.0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 3 - Black Pipe
+
+CTL_Point 19
+X = 21.750
+Y = 50.000
+Z = 400.500
+LeftWidth = 5.0
+RightWidth = 5.0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 3 - Black Pipe
+
+CTL_Point 20
+X = 374.750
+Y = 50.000
+Z = 420.500
+LeftWidth = 7.0
+RightWidth = 7.0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 3 - Black Pipe
+
+CTL_Point 21
+X = 512.250
+Y = 50.000
+Z = 430.000
+LeftWidth = 22.0
+RightWidth = 22.0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 3 - Black Pipe
+
+CTL_Point 22
+X = 684.250
+Y = 50.000
+Z = 401.000
+LeftWidth = 22.0
+RightWidth = 22.0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 0 - Blue Pipe
+
+CTL_Point 23
+X = 865.750
+Y = 60.000
+Z = 301.500
+LeftWidth = 22.0
+RightWidth = 22.0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 0 - Blue Pipe
+
+CTL_Point 24
+X = 995.250
+Y = 65.000
+Z = 120.500
+LeftWidth = 22.0
+RightWidth = 22.0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 0 - Blue Pipe
+
+CTL_Point 25
+X = 1044.250
+Y = 67.000
+Z = -171.000
+LeftWidth = 22.0
+RightWidth = 22.0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 0 - Blue Pipe
+
+CTL_Point 26
+X = 941.750
+Y = 70.000
+Z = -395.000
+LeftWidth = 22.0
+RightWidth = 22.0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 0 - Blue Pipe
+
+CTL_Point 27
+X = 667.750
+Y = 50.000
+Z = -504.000
+LeftWidth = 30.0
+RightWidth = 30.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+
+CTL_Point 28
+X = 507.750
+Y = 50.000
+Z = -514.500
+LeftWidth = 30.0
+RightWidth = 30.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C

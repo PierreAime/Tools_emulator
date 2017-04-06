@@ -1,0 +1,748 @@
+Name = DASHES POWER 05
+Description = LAP MARKER GATES & DART ZONES
+JDescription = 
+Source = ©2005 Philippe Brodier
+
+Venue = 2 - Big Blue
+Sky = 3 - Blue
+ROM_Music = 4 - Big Blue
+EK_Music = 4 - Big Blue
+
+Horizon_Count = 6
+CTL_Point_Count = 64
+
+
+Horizon 1
+Image = 36 - Big Blue D
+Angle = 0,000°
+
+Horizon 2
+Image = 33 - Big Blue A
+Angle = 70,000°
+
+Horizon 3
+Image = 33 - Big Blue A
+Angle = 110,000°
+
+Horizon 4
+Image = 36 - Big Blue D
+Angle = 180,000°
+
+Horizon 5
+Image = 35 - Big Blue C
+Angle = 240,000°
+
+Horizon 6
+Image = 34 - Big Blue B
+Angle = 300,000°
+
+
+CTL_Point 1
+X = 1021,000
+Y = 11,000
+Z = -145,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 0 - Venue Finish Stretch
+
+CTL_Point 2
+X = 1096,000
+Y = 0,000
+Z = -145,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DartZone = 0 - Both Sides
+Gate = 1 - Lap Marker
+
+CTL_Point 3
+X = 1188,000
+Y = 0,000
+Z = -145,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DartZone = 3 - Center
+
+CTL_Point 4
+X = 1280,000
+Y = 7,000
+Z = -145,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DartZone = 0 - Both Sides
+
+CTL_Point 5
+X = 1351,000
+Y = 41,000
+Z = -138,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 2 - High-Wall
+Texture = 0 - Venue High-wall
+DartZone = 3 - Center
+
+CTL_Point 6
+X = 1442,000
+Y = 191,000
+Z = -97,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 72°
+TrackType = 2 - High-Wall
+Texture = 0 - Venue High-wall
+PitArea = 0 - Both Sides
+
+CTL_Point 7
+X = 1444,000
+Y = 191,000
+Z = 18,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 96°
+TrackType = 2 - High-Wall
+Texture = 0 - Venue High-wall
+PitArea = 0 - Both Sides
+
+CTL_Point 8
+X = 1343,000
+Y = 350,000
+Z = 70,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 90°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DartZone = 0 - Both Sides
+
+CTL_Point 9
+X = 1100,000
+Y = 500,000
+Z = 125,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 3 - Pipe
+Texture = 2 - White Pipe
+
+CTL_Point 10
+X = 884,000
+Y = 500,000
+Z = 125,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 8 - Blue High-wall
+
+CTL_Point 11
+X = 800,000
+Y = 474,000
+Z = 125,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 0°
+TrackType = 2 - High-Wall
+Texture = 0 - Venue High-wall
+
+CTL_Point 12
+X = 750,000
+Y = 450,000
+Z = 125,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 0°
+TrackType = 2 - High-Wall
+Texture = 1 - Blue High-wall
+
+CTL_Point 13
+X = 700,000
+Y = 420,000
+Z = 125,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 0°
+TrackType = 2 - High-Wall
+Texture = 0 - Venue High-wall
+
+CTL_Point 14
+X = 650,000
+Y = 390,000
+Z = 125,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 0°
+TrackType = 2 - High-Wall
+Texture = 1 - Blue High-wall
+DashPlate = 0 - Center
+
+CTL_Point 15
+X = 600,000
+Y = 360,000
+Z = 125,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 0°
+TrackType = 2 - High-Wall
+Texture = 0 - Venue High-wall
+
+CTL_Point 16
+X = 550,000
+Y = 330,000
+Z = 125,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 0°
+TrackType = 2 - High-Wall
+Texture = 1 - Blue High-wall
+
+CTL_Point 17
+X = 500,000
+Y = 300,000
+Z = 125,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 0°
+TrackType = 2 - High-Wall
+Texture = 0 - Venue High-wall
+DashPlate = 0 - Center
+
+CTL_Point 18
+X = 450,000
+Y = 270,000
+Z = 125,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 0°
+TrackType = 2 - High-Wall
+Texture = 1 - Blue High-wall
+
+CTL_Point 19
+X = 400,000
+Y = 240,000
+Z = 125,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 0°
+TrackType = 2 - High-Wall
+Texture = 0 - Venue High-wall
+DashPlate = 0 - Center
+
+CTL_Point 20
+X = 350,000
+Y = 210,000
+Z = 125,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 0°
+TrackType = 2 - High-Wall
+Texture = 1 - Blue High-wall
+
+CTL_Point 21
+X = 300,000
+Y = 180,000
+Z = 125,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 0°
+TrackType = 2 - High-Wall
+Texture = 0 - Venue High-wall
+DashPlate = 0 - Center
+
+CTL_Point 22
+X = 250,000
+Y = 150,000
+Z = 125,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 0°
+TrackType = 2 - High-Wall
+Texture = 1 - Blue High-wall
+
+CTL_Point 23
+X = 200,000
+Y = 120,000
+Z = 125,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 0°
+TrackType = 2 - High-Wall
+Texture = 0 - Venue High-wall
+DashPlate = 0 - Center
+
+CTL_Point 24
+X = 150,000
+Y = 90,000
+Z = 125,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 0°
+TrackType = 2 - High-Wall
+Texture = 1 - Blue High-wall
+
+CTL_Point 25
+X = 100,000
+Y = 60,000
+Z = 125,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 0°
+TrackType = 2 - High-Wall
+Texture = 0 - Venue High-wall
+DashPlate = 0 - Center
+
+CTL_Point 26
+X = 50,000
+Y = 30,000
+Z = 125,000
+LeftWidth = 75,0
+RightWidth = 75,0
+Banking = 0°
+TrackType = 2 - High-Wall
+Texture = 1 - Blue High-wall
+
+CTL_Point 27
+X = 0,000
+Y = 15,000
+Z = 125,000
+LeftWidth = 5,0
+RightWidth = 5,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DashPlate = 0 - Center
+
+CTL_Point 28
+X = -50,000
+Y = 30,000
+Z = 125,000
+LeftWidth = 5,0
+RightWidth = 5,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DashPlate = 0 - Center
+Gate = 1 - Lap Marker
+
+CTL_Point 29
+X = -100,000
+Y = 60,000
+Z = 125,000
+LeftWidth = 5,0
+RightWidth = 5,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DashPlate = 0 - Center
+Gate = 1 - Lap Marker
+
+CTL_Point 30
+X = -150,000
+Y = 90,000
+Z = 125,000
+LeftWidth = 5,0
+RightWidth = 5,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DashPlate = 0 - Center
+Gate = 1 - Lap Marker
+
+CTL_Point 31
+X = -200,000
+Y = 120,000
+Z = 125,000
+LeftWidth = 5,0
+RightWidth = 5,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DashPlate = 0 - Center
+Gate = 1 - Lap Marker
+
+CTL_Point 32
+X = -250,000
+Y = 150,000
+Z = 125,000
+LeftWidth = 5,0
+RightWidth = 5,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DashPlate = 0 - Center
+Gate = 1 - Lap Marker
+
+CTL_Point 33
+X = -300,000
+Y = 180,000
+Z = 125,000
+LeftWidth = 5,0
+RightWidth = 5,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DashPlate = 0 - Center
+Gate = 1 - Lap Marker
+
+CTL_Point 34
+X = -350,000
+Y = 210,000
+Z = 125,000
+LeftWidth = 5,0
+RightWidth = 5,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DashPlate = 0 - Center
+Gate = 1 - Lap Marker
+
+CTL_Point 35
+X = -400,000
+Y = 240,000
+Z = 125,000
+LeftWidth = 5,0
+RightWidth = 5,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DashPlate = 0 - Center
+Gate = 1 - Lap Marker
+
+CTL_Point 36
+X = -450,000
+Y = 270,000
+Z = 125,000
+LeftWidth = 5,0
+RightWidth = 5,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DashPlate = 0 - Center
+Gate = 1 - Lap Marker
+
+CTL_Point 37
+X = -500,000
+Y = 300,000
+Z = 125,000
+LeftWidth = 5,0
+RightWidth = 5,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DashPlate = 0 - Center
+Gate = 1 - Lap Marker
+
+CTL_Point 38
+X = -550,000
+Y = 330,000
+Z = 125,000
+LeftWidth = 5,0
+RightWidth = 5,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DashPlate = 0 - Center
+Gate = 1 - Lap Marker
+
+CTL_Point 39
+X = -600,000
+Y = 360,000
+Z = 125,000
+LeftWidth = 5,0
+RightWidth = 5,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DashPlate = 0 - Center
+Gate = 1 - Lap Marker
+
+CTL_Point 40
+X = -650,000
+Y = 390,000
+Z = 125,000
+LeftWidth = 5,0
+RightWidth = 5,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DashPlate = 0 - Center
+Gate = 1 - Lap Marker
+
+CTL_Point 41
+X = -700,000
+Y = 420,000
+Z = 125,000
+LeftWidth = 5,0
+RightWidth = 5,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DashPlate = 0 - Center
+Gate = 1 - Lap Marker
+
+CTL_Point 42
+X = -750,000
+Y = 460,000
+Z = 125,000
+LeftWidth = 5,0
+RightWidth = 5,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+Gate = 1 - Lap Marker
+
+CTL_Point 43
+X = -781,000
+Y = 500,000
+Z = 125,000
+LeftWidth = 25,0
+RightWidth = 25,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DartZone = 2 - Right side
+Gate = 1 - Lap Marker
+
+CTL_Point 44
+X = -900,000
+Y = 500,000
+Z = 143,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 345°
+TrackType = 2 - High-Wall
+Texture = 0 - Venue High-wall
+
+CTL_Point 45
+X = -1000,000
+Y = 200,000
+Z = -100,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 345°
+TrackType = 2 - High-Wall
+Texture = 0 - Venue High-wall
+
+CTL_Point 46
+X = -1187,000
+Y = 91,000
+Z = -380,000
+LeftWidth = 70,0
+RightWidth = 70,0
+Banking = 351°
+TrackType = 2 - High-Wall
+Texture = 0 - Venue High-wall
+TrapField = 0 - Center
+
+CTL_Point 47
+X = -1476,000
+Y = 9,000
+Z = -994,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 0°
+TrackType = 2 - High-Wall
+Texture = 0 - Venue High-wall
+PitArea = 0 - Both Sides
+JumpPlate = 2 - Right Side
+
+CTL_Point 48
+X = -1273,000
+Y = 0,000
+Z = -1138,000
+LeftWidth = 52,0
+RightWidth = 52,0
+Banking = 0°
+TrackType = 2 - High-Wall
+Texture = 0 - Venue High-wall
+TrapField = 0 - Center
+
+CTL_Point 49
+X = -590,000
+Y = 0,000
+Z = -217,000
+LeftWidth = 10,0
+RightWidth = 10,0
+Banking = 225°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+
+CTL_Point 50
+X = -400,000
+Y = 0,000
+Z = -145,000
+LeftWidth = 47,0
+RightWidth = 5,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+
+CTL_Point 51
+X = -175,000
+Y = 0,000
+Z = -150,000
+LeftWidth = 5,0
+RightWidth = 47,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DartZone = 3 - Center
+Gate = 1 - Lap Marker
+
+CTL_Point 52
+X = -75,000
+Y = 0,000
+Z = -150,000
+LeftWidth = 47,0
+RightWidth = 5,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 2 - Grey No-walls
+DartZone = 0 - Both Sides
+
+CTL_Point 53
+X = 20,000
+Y = 90,000
+Z = -150,000
+LeftWidth = 5,0
+RightWidth = 47,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 1 - Teal No-walls
+DartZone = 3 - Center
+
+CTL_Point 54
+X = 125,000
+Y = 50,000
+Z = -150,000
+LeftWidth = 47,0
+RightWidth = 5,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 2 - Grey No-walls
+DartZone = 0 - Both Sides
+JumpPlate = 0 - Full-Width
+
+CTL_Point 55
+X = 220,000
+Y = 140,000
+Z = -150,000
+LeftWidth = 5,0
+RightWidth = 47,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 1 - Teal No-walls
+DartZone = 3 - Center
+Gate = 1 - Lap Marker
+
+CTL_Point 56
+X = 300,000
+Y = 90,000
+Z = -150,000
+LeftWidth = 47,0
+RightWidth = 5,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 2 - Grey No-walls
+DartZone = 0 - Both Sides
+
+CTL_Point 57
+X = 390,000
+Y = 150,000
+Z = -145,000
+LeftWidth = 5,0
+RightWidth = 47,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 1 - Teal No-walls
+DartZone = 3 - Center
+
+CTL_Point 58
+X = 455,000
+Y = 90,000
+Z = -160,000
+LeftWidth = 47,0
+RightWidth = 5,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 2 - Grey No-walls
+DartZone = 0 - Both Sides
+
+CTL_Point 59
+X = 520,000
+Y = 120,000
+Z = -145,000
+LeftWidth = 5,0
+RightWidth = 47,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 1 - Teal No-walls
+DartZone = 3 - Center
+JumpPlate = 0 - Full-Width
+
+CTL_Point 60
+X = 610,000
+Y = 110,000
+Z = -150,000
+LeftWidth = 47,0
+RightWidth = 5,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 2 - Grey No-walls
+DartZone = 0 - Both Sides
+Gate = 1 - Lap Marker
+
+CTL_Point 61
+X = 685,000
+Y = 95,000
+Z = -145,000
+LeftWidth = 5,0
+RightWidth = 47,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 1 - Teal No-walls
+DartZone = 3 - Center
+
+CTL_Point 62
+X = 770,000
+Y = 70,000
+Z = -145,000
+LeftWidth = 47,0
+RightWidth = 5,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 2 - Grey No-walls
+DartZone = 0 - Both Sides
+
+CTL_Point 63
+X = 835,000
+Y = 55,000
+Z = -145,000
+LeftWidth = 5,0
+RightWidth = 47,0
+Banking = 0°
+TrackType = 7 - No Wall
+Texture = 1 - Teal No-walls
+DartZone = 3 - Center
+
+CTL_Point 64
+X = 915,000
+Y = 35,000
+Z = -145,000
+LeftWidth = 47,0
+RightWidth = 5,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+DartZone = 0 - Both Sides
+JumpPlate = 0 - Full-Width

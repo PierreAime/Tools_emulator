@@ -1,0 +1,256 @@
+Name = BIG BLUE
+Description = CYLINDER
+JDescription = [si][ri][n][-]
+Source = ©1998 Nintendo
+
+Venue = 2 - Big Blue
+Sky = 7 - Light Blue
+ROM_Music = 4 - Big Blue
+EK_Music = 4 - Big Blue
+
+Horizon_Count = 6
+CTL_Point_Count = 20
+
+
+Horizon 1
+Image = 33 - Big Blue A
+Angle = 0.000°
+
+Horizon 2
+Image = 34 - Big Blue B
+Angle = 300.000°
+
+Horizon 3
+Image = 35 - Big Blue C
+Angle = 240.000°
+
+Horizon 4
+Image = 36 - Big Blue D
+Angle = 180.000°
+
+Horizon 5
+Image = 33 - Big Blue A
+Angle = 120.000°
+
+Horizon 6
+Image = 34 - Big Blue B
+Angle = 60.000°
+
+
+CTL_Point 1
+X = -700.000
+Y = 0.000
+Z = 559.000
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 0 - Venue Finish Stretch
+
+CTL_Point 2
+X = -700.000
+Y = 0.000
+Z = 177.000
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+Gate = 1 - Lap Marker
+
+CTL_Point 3
+X = -698.000
+Y = 49.500
+Z = -19.000
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+
+CTL_Point 4
+X = -694.000
+Y = 343.000
+Z = -359.000
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 4 - Cylinder
+Texture = 2 - Notched Cylinder
+
+CTL_Point 5
+X = -700.500
+Y = 246.000
+Z = -806.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 4 - Cylinder
+Texture = 2 - Notched Cylinder
+DashPlate = 0 - Top
+
+CTL_Point 6
+X = -258.500
+Y = 0.000
+Z = -1098.000
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 4 - Cylinder
+Texture = 2 - Notched Cylinder
+DashPlate = 1 - Bottom
+
+CTL_Point 7
+X = 81.500
+Y = 52.000
+Z = -901.000
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 4 - Cylinder
+Texture = 3 - Blue Cylinder
+DashPlate = 1 - Bottom
+
+CTL_Point 8
+X = -1.500
+Y = 147.500
+Z = -565.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 4 - Cylinder
+Texture = 3 - Blue Cylinder
+DashPlate = 2 - Left Side
+
+CTL_Point 9
+X = -318.000
+Y = 0.000
+Z = -142.000
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 4 - Cylinder
+Texture = 3 - Blue Cylinder
+DashPlate = 2 - Left Side
+
+CTL_Point 10
+X = -3.000
+Y = 153.500
+Z = 225.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 4 - Cylinder
+Texture = 3 - Blue Cylinder
+DashPlate = 0 - Top
+
+CTL_Point 11
+X = 698.000
+Y = 0.000
+Z = 241.000
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 4 - Cylinder
+Texture = 2 - Notched Cylinder
+DashPlate = 0 - Top
+
+CTL_Point 12
+X = 700.500
+Y = 0.000
+Z = -202.000
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 4 - Cylinder
+Texture = 2 - Notched Cylinder
+DashPlate = 2 - Left Side
+
+CTL_Point 13
+X = 288.000
+Y = 0.000
+Z = -81.000
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 4 - Cylinder
+Texture = 2 - Notched Cylinder
+DashPlate = 0 - Top
+
+CTL_Point 14
+X = 248.000
+Y = 0.000
+Z = 568.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+PitArea = 0 - Both Sides
+
+CTL_Point 15
+X = 48.000
+Y = 0.000
+Z = 1028.000
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+Decoration = 3 - Spinning Billboard
+
+CTL_Point 16
+X = -131.000
+Y = 0.000
+Z = 1149.000
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+Structure = 10 - Pinnacle (Left Side)
+
+CTL_Point 17
+X = -293.000
+Y = 0.000
+Z = 1148.000
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+Structure = 10 - Pinnacle (Left Side)
+
+CTL_Point 18
+X = -421.000
+Y = 0.000
+Z = 1017.000
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+Decoration = 1 - Orange Flag
+Structure = 9 - Pinnacle (Both Sides)
+
+CTL_Point 19
+X = -558.000
+Y = 0.000
+Z = 1019.000
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+Structure = 11 - Pinnacle (Right Side)
+
+CTL_Point 20
+X = -677.000
+Y = 0.000
+Z = 822.000
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+Structure = 9 - Pinnacle (Both Sides)

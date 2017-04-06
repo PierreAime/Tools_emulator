@@ -1,0 +1,661 @@
+Name = ELECTRONIC CITY
+Description = CORKSCREW VARIATIONS 2
+JDescription = 
+Source = ©2008 Philippe Brodier
+
+Venue = 6 - Sector
+Sky = 6 - Sunset
+ROM_Music = 7 - Sector
+EK_Music = 35 - Regeneration
+
+Horizon_Count = 1
+CTL_Point_Count = 63
+
+
+Horizon 1
+Image = 21 - Sector A
+Angle = 180,000°
+
+
+CTL_Point 1
+X = -222,000
+Y = 43,000
+Z = -1457,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 0 - Venue Finish Stretch
+Gate = 2 - Canopy
+
+CTL_Point 2
+X = -764,000
+Y = 77,000
+Z = -1452,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DashPlate = 0 - Center
+Gate = 1 - Lap Marker
+
+CTL_Point 3
+X = -1050,000
+Y = 100,000
+Z = -1441,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 354°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+DashPlate = 0 - Center
+Decoration = 1 - Orange Flag
+
+CTL_Point 4
+X = -1211,000
+Y = 100,000
+Z = -1327,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 348°
+TrackType = 5 - Half Pipe
+Texture = 0 - Grainy Half Pipe
+DashPlate = 0 - Center
+Decoration = 3 - Spinning Billboard
+
+CTL_Point 5
+X = -1250,000
+Y = 100,000
+Z = -1100,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 0 - Grainy Half Pipe
+
+CTL_Point 6
+X = -1250,000
+Y = 100,000
+Z = -1050,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 15°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+
+CTL_Point 7
+X = -1250,000
+Y = 100,000
+Z = -1000,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 45°
+TrackType = 5 - Half Pipe
+Texture = 0 - Grainy Half Pipe
+
+CTL_Point 8
+X = -1250,000
+Y = 100,000
+Z = -950,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 75°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+
+CTL_Point 9
+X = -1250,000
+Y = 100,000
+Z = -900,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 105°
+TrackType = 5 - Half Pipe
+Texture = 0 - Grainy Half Pipe
+
+CTL_Point 10
+X = -1250,000
+Y = 100,000
+Z = -850,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 135°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+
+CTL_Point 11
+X = -1250,000
+Y = 100,000
+Z = -800,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 165°
+TrackType = 5 - Half Pipe
+Texture = 0 - Grainy Half Pipe
+
+CTL_Point 12
+X = -1250,000
+Y = 100,000
+Z = -750,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 195°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+
+CTL_Point 13
+X = -1250,000
+Y = 100,000
+Z = -700,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 225°
+TrackType = 5 - Half Pipe
+Texture = 0 - Grainy Half Pipe
+
+CTL_Point 14
+X = -1250,000
+Y = 100,000
+Z = -650,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 255°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+
+CTL_Point 15
+X = -1250,000
+Y = 100,000
+Z = -600,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 285°
+TrackType = 5 - Half Pipe
+Texture = 0 - Grainy Half Pipe
+
+CTL_Point 16
+X = -1250,000
+Y = 100,000
+Z = -550,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 315°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+
+CTL_Point 17
+X = -1250,000
+Y = 100,000
+Z = -500,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 345°
+TrackType = 5 - Half Pipe
+Texture = 0 - Grainy Half Pipe
+
+CTL_Point 18
+X = -1250,000
+Y = 100,000
+Z = -450,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 15°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+
+CTL_Point 19
+X = -1250,000
+Y = 100,000
+Z = -400,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 45°
+TrackType = 5 - Half Pipe
+Texture = 0 - Grainy Half Pipe
+
+CTL_Point 20
+X = -1250,000
+Y = 100,000
+Z = -350,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 75°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+
+CTL_Point 21
+X = -1250,000
+Y = 100,000
+Z = -300,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 105°
+TrackType = 5 - Half Pipe
+Texture = 0 - Grainy Half Pipe
+
+CTL_Point 22
+X = -1250,000
+Y = 100,000
+Z = -250,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 135°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+
+CTL_Point 23
+X = -1250,000
+Y = 100,000
+Z = -200,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 165°
+TrackType = 5 - Half Pipe
+Texture = 0 - Grainy Half Pipe
+
+CTL_Point 24
+X = -1250,000
+Y = 100,000
+Z = -150,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 195°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+
+CTL_Point 25
+X = -1250,000
+Y = 100,000
+Z = -100,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 225°
+TrackType = 5 - Half Pipe
+Texture = 0 - Grainy Half Pipe
+
+CTL_Point 26
+X = -1250,000
+Y = 100,000
+Z = -50,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 255°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+
+CTL_Point 27
+X = -1250,000
+Y = 100,000
+Z = 0,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 285°
+TrackType = 5 - Half Pipe
+Texture = 0 - Grainy Half Pipe
+
+CTL_Point 28
+X = -1250,000
+Y = 100,000
+Z = 50,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 315°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+
+CTL_Point 29
+X = -1250,000
+Y = 100,000
+Z = 100,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 345°
+TrackType = 5 - Half Pipe
+Texture = 0 - Grainy Half Pipe
+
+CTL_Point 30
+X = -1250,000
+Y = 100,000
+Z = 150,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 15°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+
+CTL_Point 31
+X = -1250,000
+Y = 100,000
+Z = 200,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 45°
+TrackType = 5 - Half Pipe
+Texture = 0 - Grainy Half Pipe
+
+CTL_Point 32
+X = -1250,000
+Y = 100,000
+Z = 250,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 75°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+
+CTL_Point 33
+X = -1250,000
+Y = 100,000
+Z = 300,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 105°
+TrackType = 5 - Half Pipe
+Texture = 0 - Grainy Half Pipe
+
+CTL_Point 34
+X = -1250,000
+Y = 100,000
+Z = 350,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 135°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+
+CTL_Point 35
+X = -1250,000
+Y = 100,000
+Z = 400,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 165°
+TrackType = 5 - Half Pipe
+Texture = 0 - Grainy Half Pipe
+
+CTL_Point 36
+X = -1250,000
+Y = 100,000
+Z = 450,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 195°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+
+CTL_Point 37
+X = -1250,000
+Y = 100,000
+Z = 500,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 225°
+TrackType = 5 - Half Pipe
+Texture = 0 - Grainy Half Pipe
+
+CTL_Point 38
+X = -1250,000
+Y = 100,000
+Z = 550,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 255°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+
+CTL_Point 39
+X = -1250,000
+Y = 100,000
+Z = 600,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 285°
+TrackType = 5 - Half Pipe
+Texture = 0 - Grainy Half Pipe
+
+CTL_Point 40
+X = -1250,000
+Y = 100,000
+Z = 650,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 315°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+
+CTL_Point 41
+X = -1250,000
+Y = 100,000
+Z = 700,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 345°
+TrackType = 5 - Half Pipe
+Texture = 0 - Grainy Half Pipe
+
+CTL_Point 42
+X = -1250,000
+Y = 100,000
+Z = 750,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 1 - Striped Half Pipe
+
+CTL_Point 43
+X = -1250,000
+Y = 100,000
+Z = 932,000
+LeftWidth = 52,0
+RightWidth = 52,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+Decoration = 3 - Spinning Billboard
+
+CTL_Point 44
+X = -1250,000
+Y = 100,000
+Z = 1096,000
+LeftWidth = 52,0
+RightWidth = 52,0
+Banking = 0°
+TrackType = 2 - High-Wall
+Texture = 0 - Venue High-wall
+DashPlate = 0 - Center
+
+CTL_Point 45
+X = -1212,000
+Y = 100,000
+Z = 1263,000
+LeftWidth = 52,0
+RightWidth = 52,0
+Banking = 0°
+TrackType = 2 - High-Wall
+Texture = 0 - Venue High-wall
+DashPlate = 0 - Center
+
+CTL_Point 46
+X = -1111,000
+Y = 102,000
+Z = 1374,000
+LeftWidth = 52,0
+RightWidth = 52,0
+Banking = 0°
+TrackType = 2 - High-Wall
+Texture = 0 - Venue High-wall
+DashPlate = 0 - Center
+
+CTL_Point 47
+X = -954,000
+Y = 118,000
+Z = 1425,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 0°
+TrackType = 2 - High-Wall
+Texture = 0 - Venue High-wall
+DashPlate = 0 - Center
+
+CTL_Point 48
+X = -808,000
+Y = 200,000
+Z = 1429,000
+LeftWidth = 26,0
+RightWidth = 26,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 4 - Venue Texture 1C
+
+CTL_Point 49
+X = -675,000
+Y = 259,000
+Z = 1428,000
+LeftWidth = 29,0
+RightWidth = 29,0
+Banking = 0°
+TrackType = 0 - (No Track)
+Decoration = 1 - Orange Flag
+
+CTL_Point 50
+X = -358,000
+Y = 0,000
+Z = 1434,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 0°
+TrackType = 4 - Cylinder
+Texture = 3 - Blue Cylinder
+
+CTL_Point 51
+X = 214,000
+Y = 0,000
+Z = 1437,000
+LeftWidth = 78,0
+RightWidth = 78,0
+Banking = 0°
+TrackType = 4 - Cylinder
+Texture = 2 - Notched Cylinder
+
+CTL_Point 52
+X = 573,000
+Y = 225,000
+Z = 1369,000
+LeftWidth = 65,0
+RightWidth = 65,0
+Banking = 0°
+TrackType = 4 - Cylinder
+Texture = 3 - Blue Cylinder
+
+CTL_Point 53
+X = 773,000
+Y = 49,000
+Z = 1322,000
+LeftWidth = 52,0
+RightWidth = 52,0
+Banking = 0°
+TrackType = 4 - Cylinder
+Texture = 2 - Notched Cylinder
+
+CTL_Point 54
+X = 1082,000
+Y = 0,000
+Z = 1032,000
+LeftWidth = 39,0
+RightWidth = 39,0
+Banking = 0°
+TrackType = 4 - Cylinder
+Texture = 3 - Blue Cylinder
+
+CTL_Point 55
+X = 1421,000
+Y = 25,000
+Z = 486,000
+LeftWidth = 52,0
+RightWidth = 52,0
+Banking = 0°
+TrackType = 4 - Cylinder
+Texture = 2 - Notched Cylinder
+
+CTL_Point 56
+X = 1356,000
+Y = 174,000
+Z = 0,000
+LeftWidth = 78,0
+RightWidth = 78,0
+Banking = 0°
+TrackType = 4 - Cylinder
+Texture = 2 - Notched Cylinder
+
+CTL_Point 57
+X = 1258,000
+Y = 349,000
+Z = -233,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 0°
+TrackType = 0 - (No Track)
+
+CTL_Point 58
+X = 1143,000
+Y = 242,000
+Z = -478,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 0°
+TrackType = 0 - (No Track)
+
+CTL_Point 59
+X = 1034,000
+Y = 188,000
+Z = -709,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 0°
+TrackType = 0 - (No Track)
+
+CTL_Point 60
+X = 922,000
+Y = 135,000
+Z = -936,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 0°
+TrackType = 0 - (No Track)
+
+CTL_Point 61
+X = 807,000
+Y = 67,000
+Z = -1171,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 0°
+TrackType = 0 - (No Track)
+
+CTL_Point 62
+X = 642,000
+Y = 0,000
+Z = -1408,000
+LeftWidth = 100,0
+RightWidth = 100,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+PitArea = 0 - Both Sides
+Gate = 0 - Normal
+Decoration = 2 - Blue Flag
+
+CTL_Point 63
+X = 299,000
+Y = 0,000
+Z = -1451,000
+LeftWidth = 78,0
+RightWidth = 78,0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+PitArea = 0 - Both Sides
+Gate = 2 - Canopy
+Decoration = 0 - TV Billboard

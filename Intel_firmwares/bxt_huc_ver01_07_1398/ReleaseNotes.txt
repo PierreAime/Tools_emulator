@@ -1,0 +1,12 @@
+Version: 1.7.1398
+Date   : 02/23/2016
+Notes  :
+This release is to support the following features:
+Gen9 HuC BXT BRC Kernel:
+-       Update SkipFrame to avoid conditional batch buffer issue in driver
+-       Updated for open source driver
+-       Fix overflow issue
+-       Enable ME distortion based QP adjustment
+-       Fix incorrect cost table loading when ME detection is enabled
+
+

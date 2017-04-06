@@ -1,0 +1,339 @@
+Name = MUTE CITY 4
+Description = SLIM HALF PIPE
+JDescription = [su][ri][mu][ha][-][hu][pa][i][pu]
+Source = ©2000 Nintendo
+
+Venue = 0 - Mute City
+Sky = 5 - Orange
+ROM_Music = 0 - Mute City
+EK_Music = 36 - Roller Coaster
+
+Horizon_Count = 0
+CTL_Point_Count = 32
+
+
+CTL_Point 1
+X = -1035.500
+Y = 0.000
+Z = 48.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 0 - Venue Finish Stretch
+
+CTL_Point 2
+X = -1035.500
+Y = 0.000
+Z = -312.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+Gate = 1 - Lap Marker
+
+CTL_Point 3
+X = -1035.500
+Y = 0.000
+Z = -517.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+
+CTL_Point 4
+X = -998.500
+Y = 0.000
+Z = -682.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+
+CTL_Point 5
+X = -798.500
+Y = 0.000
+Z = -771.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 2 - Venue Texture 1A
+
+CTL_Point 6
+X = -485.500
+Y = 0.000
+Z = -726.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 2 - Green Half Pipe
+DashPlate = 0 - Center
+
+CTL_Point 7
+X = -164.500
+Y = 0.000
+Z = -511.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 3 - Pinstriped Half Pipe
+
+CTL_Point 8
+X = -108.500
+Y = 0.000
+Z = -128.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 2 - Green Half Pipe
+
+CTL_Point 9
+X = -105.500
+Y = 0.000
+Z = 138.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 351°
+TrackType = 5 - Half Pipe
+Texture = 3 - Pinstriped Half Pipe
+
+CTL_Point 10
+X = -12.500
+Y = 26.000
+Z = 302.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 27°
+TrackType = 5 - Half Pipe
+Texture = 2 - Green Half Pipe
+
+CTL_Point 11
+X = -89.500
+Y = 121.000
+Z = 646.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 297°
+TrackType = 5 - Half Pipe
+Texture = 3 - Pinstriped Half Pipe
+
+CTL_Point 12
+X = 118.500
+Y = 147.000
+Z = 789.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 282°
+TrackType = 5 - Half Pipe
+Texture = 2 - Green Half Pipe
+DashPlate = 0 - Center
+
+CTL_Point 13
+X = 429.500
+Y = 116.000
+Z = 802.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 273°
+TrackType = 5 - Half Pipe
+Texture = 3 - Pinstriped Half Pipe
+
+CTL_Point 14
+X = 758.500
+Y = 70.000
+Z = 648.500
+LeftWidth = 5.0
+RightWidth = 5.0
+Banking = 261°
+TrackType = 5 - Half Pipe
+Texture = 2 - Green Half Pipe
+
+CTL_Point 15
+X = 965.500
+Y = 58.000
+Z = 431.500
+LeftWidth = 5.0
+RightWidth = 5.0
+Banking = 300°
+TrackType = 5 - Half Pipe
+Texture = 3 - Pinstriped Half Pipe
+
+CTL_Point 16
+X = 1035.500
+Y = 72.000
+Z = 244.500
+LeftWidth = 5.0
+RightWidth = 5.0
+Banking = 333°
+TrackType = 5 - Half Pipe
+Texture = 2 - Green Half Pipe
+
+CTL_Point 17
+X = 1011.500
+Y = 80.000
+Z = 42.500
+LeftWidth = 5.0
+RightWidth = 5.0
+Banking = 339°
+TrackType = 5 - Half Pipe
+Texture = 3 - Pinstriped Half Pipe
+
+CTL_Point 18
+X = 953.500
+Y = 80.000
+Z = -196.500
+LeftWidth = 16.0
+RightWidth = 16.0
+Banking = 351°
+TrackType = 0 - (No Track)
+
+CTL_Point 19
+X = 906.500
+Y = 18.000
+Z = -359.500
+LeftWidth = 20.0
+RightWidth = 20.0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 3 - Pinstriped Half Pipe
+
+CTL_Point 20
+X = 801.500
+Y = 0.000
+Z = -658.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 345°
+TrackType = 5 - Half Pipe
+Texture = 2 - Green Half Pipe
+
+CTL_Point 21
+X = 665.500
+Y = 0.000
+Z = -802.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 336°
+TrackType = 5 - Half Pipe
+Texture = 3 - Pinstriped Half Pipe
+
+CTL_Point 22
+X = 451.500
+Y = 0.000
+Z = -742.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 342°
+TrackType = 5 - Half Pipe
+Texture = 2 - Green Half Pipe
+
+CTL_Point 23
+X = 408.500
+Y = 62.000
+Z = -452.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 0 - (No Track)
+
+CTL_Point 24
+X = 396.500
+Y = 0.000
+Z = -259.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 2 - Green Half Pipe
+
+CTL_Point 25
+X = 289.500
+Y = 12.000
+Z = 0.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 54°
+TrackType = 5 - Half Pipe
+Texture = 3 - Pinstriped Half Pipe
+
+CTL_Point 26
+X = -48.500
+Y = 97.000
+Z = 104.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 0 - (No Track)
+
+CTL_Point 27
+X = -163.500
+Y = 82.000
+Z = 150.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 3 - Pinstriped Half Pipe
+
+CTL_Point 28
+X = -381.500
+Y = 48.000
+Z = 282.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 5 - Half Pipe
+Texture = 2 - Green Half Pipe
+
+CTL_Point 29
+X = -445.500
+Y = 26.000
+Z = 461.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+SlipZone = 1 - Left side
+Structure = 2 - Venue Skyscraper (Right Side)
+
+CTL_Point 30
+X = -640.500
+Y = 0.000
+Z = 571.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+PitArea = 0 - Both Sides
+
+CTL_Point 31
+X = -987.500
+Y = 0.000
+Z = 446.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+SlipZone = 1 - Left side
+Structure = 3 - Short Building (Both Sides)
+
+CTL_Point 32
+X = -1029.500
+Y = 0.000
+Z = 254.500
+LeftWidth = 26.0
+RightWidth = 26.0
+Banking = 0°
+TrackType = 1 - Normal
+Texture = 3 - Venue Texture 1B
+DashPlate = 0 - Center

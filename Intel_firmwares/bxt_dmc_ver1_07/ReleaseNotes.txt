@@ -1,0 +1,6 @@
+Version: 1.07
+Date   : 5/05/2016
+Notes:
+Following are additions/changes from ver1.06
+1. Updated FW to wait for all PLLs to turn on for complete power on.
+

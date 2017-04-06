@@ -1,0 +1,7 @@
+Version: 2.0.1810
+Date   : 06/26/2016
+Notes  :
+This release is to support the following features:
+Gen95 HuC KBL BRC Kernel:
+-	First release. 
+

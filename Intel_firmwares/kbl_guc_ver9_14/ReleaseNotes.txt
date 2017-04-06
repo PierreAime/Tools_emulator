@@ -1,0 +1,13 @@
+[Intel] linux-firmware/i915: GuC firmware for Kabylake v9.14
+
+This update includes (since v8.12):
+     1. Sub-feature level control for power management features.
+     2. Clean-up for power management interface.
+     3. Bug Fix for multi context scheduler flag.
+
+8.12 contained since v 5.1:
+     1. Add per engine preemption support to scheduler
+     2. Minor bug fixes
+     3. Add support to log media reset count
+
+
