@@ -19,9 +19,14 @@ Testé sous Ubuntu 16.04 en 64 bits.
 ./Emulateurs_linux "opt"
 
 Liste pour les differents 'opt' possibles (mettre seulement 1 option) :
+
 -h => Aide
+
 -intel => installation des firmwares INTEL manquants si vous possedez une carte graphique INTEL
+
 -jstest-gtk => installation du viewer de manette Jstest-gtk
+
 -mupen64plus => installation de l'emulateur Mupen64plus et ses extensions pour N64
+
 -mednafen => installation de l'emulateur Mednafen pour NES, SNES et Virtual Boy
 
