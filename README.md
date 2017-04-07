@@ -36,7 +36,5 @@ Liste pour les differents 'opt' possibles (mettre seulement 1 option) :
 
 -mednafen => installation de l'emulateur Mednafen pour NES, SNES et Virtual Boy
 
--retroarch 'votre dossier utilisateur' => installation de l'emulateur Retroarch avec son extension pour la GameBoy et GameBoy Color
-
-Ex : -retroarch /home/linux
+-retroarch 'votre dossier utilisateur' => installation de l'emulateur Retroarch avec son extension pour la GameBoy et GameBoy Color (Ex : -retroarch /home/linux)
 
