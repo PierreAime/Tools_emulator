@@ -11,6 +11,7 @@ if [[ $1 == "-h" ]]
 	echo "-jstest-gtk => installation du viewer de manette Jstest-gtk"
 	echo "-mupen64plus => installation de l'emulateur Mupen64plus et ses extensions pour N64"
 	echo "-mednafen => installation de l'emulateur Mednafen pour NES, SNES et Virtual Boy"
+	echo "-retroarch <dossier utilisateur> => installation de l'emulateur Retroarch avec son extension pour la GameBoy et GameBoy Color"
 	echo "Auteur du script : Pierre-Aime IMBERT"
 	echo "GPL v3"
 	echo "pierreaime.imbert@outlook.fr"	
@@ -28,6 +29,7 @@ if [[ $1 == "" ]]
 	echo "-jstest-gtk => installation du viewer de manette Jstest-gtk"
 	echo "-mupen64plus => installation de l'emulateur Mupen64plus et ses extensions pour N64"
 	echo "-mednafen => installation de l'emulateur Mednafen pour NES, SNES et Virtual Boy"
+	echo "-retroarch <dossier utilisateur> => installation de l'emulateur Retroarch avec son extension pour la GameBoy et GameBoy Color"
 	echo "Auteur du script : Pierre-Aime IMBERT"
 	echo "GPL v3"
 	echo "pierreaime.imbert@outlook.fr"	
@@ -69,6 +71,7 @@ apt-get -y install gtk+3.0
 apt-get -y install libpciaccess-dev
 apt-get -y install xserver-xorg-dev
 apt-get -y install libsndfile-dev
+apt-get -y install pavucontrol
 
 if [[ $1 == "-intel" ]]
 	then
@@ -212,6 +215,42 @@ if [[ $1 == "-mednafen" ]]
 	echo "##################################"
 fi
 
+
+if [[ $1 == "-retroarch" ]]
+	then
+	echo "##################################"
+	echo "Installation de RetroArch"
+	echo "##################################"
+
+	sleep 3
+	if [[ $2 == "" ]]
+		then
+		echo "ERREUR : IL MANQUE LE DOSSIER DE VOTRE UTILISATEUR (ex:/home/linux)"
+	else
+		cd RetroArch
+		unzip RetroArch-master.zip
+		cd RetroArch-master
+		./configure
+		make
+		make install
+		cd ..
+
+		unzip tgbdual-libretro-master.zip
+		cd tgbdual-libretro-master
+		make
+		cp -R * ${2}/.config/retroarch/cores
+		cd ..
+	
+		unzip retroarch-assets-master.zip
+		cd retroarch-assets-master
+		mkdir -p ${2}/.config/retroarch/assets
+		cp -R * ${2}/.config/retroarch/assets
+	fi
+	echo "##################################"
+	echo "Installation de RetroArch terminee"
+	echo "##################################"
+fi
+
 echo "##################################"
 echo "Fin du script"
 echo "##################################"
@@ -224,6 +263,7 @@ echo "-intel => installation des firmwares INTEL manquants si vous possedez une 
 echo "-jstest-gtk => installation du viewer de manette Jstest-gtk"
 echo "-mupen64plus => installation de l'emulateur Mupen64plus et ses extensions pour N64"
 echo "-mednafen => installation de l'emulateur Mednafen pour NES, SNES et Virtual Boy"
+echo "-retroarch <dossier utilisateur> => installation de l'emulateur Retroarch avec son extension pour la GameBoy et GameBoy Color"
 echo "Auteur du script : Pierre-Aime IMBERT"
 echo "GPL v3"
 echo "pierreaime.imbert@outlook.fr"
