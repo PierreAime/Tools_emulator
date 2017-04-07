@@ -28,6 +28,8 @@ Liste pour les differents 'opt' possibles (mettre seulement 1 option) :
 
 -h => Aide
 
+-desmume => -desmume => installation de l'emulateur Desmume avec support Micro pour la Nintendo DS
+
 -intel => installation des firmwares INTEL manquants si vous possedez une carte graphique INTEL
 
 -jstest-gtk => installation du viewer de manette Jstest-gtk

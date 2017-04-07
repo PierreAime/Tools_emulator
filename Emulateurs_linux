@@ -7,6 +7,7 @@ if [[ $1 == "-h" ]]
 	echo ""
 	echo "Liste pour les differents 'opt' possibles (mettre seulement 1 option) :"
 	echo "-h => Aide"
+	echo "-desmume => installation de l'emulateur Desmume avec support Micro pour la Nintendo DS"
 	echo "-intel => installation des firmwares INTEL manquants si vous possedez une carte graphique INTEL"
 	echo "-jstest-gtk => installation du viewer de manette Jstest-gtk"
 	echo "-mupen64plus => installation de l'emulateur Mupen64plus et ses extensions pour N64"
@@ -25,6 +26,7 @@ if [[ $1 == "" ]]
 	echo ""
 	echo "Liste pour les differents 'opt' possibles (mettre seulement 1 option) :"
 	echo "-h => Aide"
+	echo "-desmume => installation de l'emulateur Desmume avec support Micro pour la Nintendo DS"
 	echo "-intel => installation des firmwares INTEL manquants si vous possedez une carte graphique INTEL"
 	echo "-jstest-gtk => installation du viewer de manette Jstest-gtk"
 	echo "-mupen64plus => installation de l'emulateur Mupen64plus et ses extensions pour N64"
@@ -72,6 +74,32 @@ apt-get -y install libpciaccess-dev
 apt-get -y install xserver-xorg-dev
 apt-get -y install libsndfile-dev
 apt-get -y install pavucontrol
+apt-get -y install libgtkglext1-dev
+apt-get -y install libpcap-dev
+apt-get -y install libsoundtouch-dev
+apt-get -y install libglade2-dev
+apt-get -y install libopenal-dev 
+apt-get -y install libalut-dev
+
+if [[ $1 == "-desmume" ]]
+	then
+	echo "##################################"
+	echo "Installation de Desmume"
+	echo "##################################"
+
+	sleep 3
+
+	cd Desmume
+	tar -xf desmume-0.9.11.tar.gz
+	cd desmume-0.9.11
+	./configure --enable-glade --enable-openal --enable-wifi
+	make
+	make install
+
+	echo "##################################"
+	echo "Installation de Desmume terminee"
+	echo "##################################"
+fi
 
 if [[ $1 == "-intel" ]]
 	then
@@ -259,6 +287,7 @@ echo "RAPPEL: ./Emulateurs_linux <opt>"
 echo ""
 echo "Liste pour les differents 'opt' possibles (mettre seulement 1 option) :"
 echo "-h => Aide"
+echo "-desmume => installation de l'emulateur Desmume avec support Micro pour la Nintendo DS"
 echo "-intel => installation des firmwares INTEL manquants si vous possedez une carte graphique INTEL"
 echo "-jstest-gtk => installation du viewer de manette Jstest-gtk"
 echo "-mupen64plus => installation de l'emulateur Mupen64plus et ses extensions pour N64"
