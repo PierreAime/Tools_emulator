@@ -12,7 +12,7 @@ if [[ $1 == "-h" ]]
 	echo "-jstest-gtk => installation du viewer de manette Jstest-gtk"
 	echo "-mupen64plus => installation de l'emulateur Mupen64plus et ses extensions pour N64"
 	echo "-mednafen => installation de l'emulateur Mednafen pour NES, SNES et Virtual Boy"
-	echo "-retroarch <dossier utilisateur> => installation de l'emulateur Retroarch avec son extension pour la GameBoy et GameBoy Color"
+	echo "-retroarch <dossier utilisateur> => installation de l'emulateur Retroarch avec son extension pour la GameBoy et GameBoy Color, La Megadrive/SEGA CD/32X, la serie Game & Watch"
 	echo "Auteur du script : Pierre-Aime IMBERT"
 	echo "GPL v3"
 	echo "pierreaime.imbert@outlook.fr"	
@@ -31,7 +31,7 @@ if [[ $1 == "" ]]
 	echo "-jstest-gtk => installation du viewer de manette Jstest-gtk"
 	echo "-mupen64plus => installation de l'emulateur Mupen64plus et ses extensions pour N64"
 	echo "-mednafen => installation de l'emulateur Mednafen pour NES, SNES et Virtual Boy"
-	echo "-retroarch <dossier utilisateur> => installation de l'emulateur Retroarch avec son extension pour la GameBoy et GameBoy Color"
+	echo "-retroarch <dossier utilisateur> => installation de l'emulateur Retroarch avec son extension pour la GameBoy et GameBoy Color, La Megadrive/SEGA CD/32X, la serie Game & Watch"
 	echo "Auteur du script : Pierre-Aime IMBERT"
 	echo "GPL v3"
 	echo "pierreaime.imbert@outlook.fr"	
@@ -80,6 +80,16 @@ apt-get -y install libsoundtouch-dev
 apt-get -y install libglade2-dev
 apt-get -y install libopenal-dev 
 apt-get -y install libalut-dev
+apt-get -y install qtbase5-dev 
+apt-get -y install libqt5opengl5-dev
+apt-get -y install libglew*
+apt-get -y install curl*
+apt-get -y install libcurl4-openssl-dev
+apt-get -y install libbz2-dev
+apt-get -y install libssl-dev
+apt-get -y install doxygen
+apt-get -y install bzr
+apt-get -y install libboost*
 
 if [[ $1 == "-desmume" ]]
 	then
@@ -269,6 +279,18 @@ if [[ $1 == "-retroarch" ]]
 		cp -R * ${2}/.config/retroarch/cores
 		cd ..
 	
+		unzip picodrive-master.zip
+		cd picodrive-master
+		make -f Makefile.libretro
+		cp -R *.so ${2}/.config/retroarch/cores
+		cd ..
+
+		unzip gw-libretro-master.zip
+		cd gw-libretro-master
+		make -f Makefile.libretro
+		cp -R *.so ${2}/.config/retroarch/cores
+		cd ..
+
 		unzip retroarch-assets-master.zip
 		cd retroarch-assets-master
 		mkdir -p ${2}/.config/retroarch/assets
@@ -292,7 +314,7 @@ echo "-intel => installation des firmwares INTEL manquants si vous possedez une 
 echo "-jstest-gtk => installation du viewer de manette Jstest-gtk"
 echo "-mupen64plus => installation de l'emulateur Mupen64plus et ses extensions pour N64"
 echo "-mednafen => installation de l'emulateur Mednafen pour NES, SNES et Virtual Boy"
-echo "-retroarch <dossier utilisateur> => installation de l'emulateur Retroarch avec son extension pour la GameBoy et GameBoy Color"
+echo "-retroarch <dossier utilisateur> => installation de l'emulateur Retroarch avec son extension pour la GameBoy et GameBoy Color, La Megadrive/SEGA CD/32X, la serie Game & Watch"
 echo "Auteur du script : Pierre-Aime IMBERT"
 echo "GPL v3"
 echo "pierreaime.imbert@outlook.fr"
